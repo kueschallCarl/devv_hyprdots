@@ -1,0 +1,23 @@
+2024/08/18-15:49:31.295 565c Reusing MANIFEST /home/devv/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/MANIFEST-000001
+2024/08/18-15:49:31.296 565c Recovering log #37
+2024/08/18-15:49:31.297 565c Reusing old log /home/devv/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/000037.log 
+2024/08/18-15:50:17.859 565e Level-0 table #41: started
+2024/08/18-15:50:17.905 565e Level-0 table #41: 4692540 bytes OK
+2024/08/18-15:50:17.911 565e Delete type=0 #37
+2024/08/18-15:50:17.917 565e Compacting 4@0 + 1@1 files
+2024/08/18-15:50:17.953 565e Generated table #42@0: 4 keys, 2473202 bytes
+2024/08/18-15:50:17.989 565e Generated table #43@0: 6 keys, 2495690 bytes
+2024/08/18-15:50:18.020 565e Generated table #44@0: 11 keys, 1818278 bytes
+2024/08/18-15:50:18.020 565e Compacted 4@0 + 1@1 files => 6787170 bytes
+2024/08/18-15:50:18.022 565e compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/08/18-15:50:18.024 565e Delete type=2 #38
+2024/08/18-15:50:18.024 565e Delete type=2 #31
+2024/08/18-15:50:18.024 565e Delete type=2 #36
+2024/08/18-15:50:18.024 565e Delete type=2 #33
+2024/08/18-15:50:18.024 565e Delete type=2 #41
+2024/08/18-15:51:17.442 565f Level-0 table #46: started
+2024/08/18-15:51:17.529 565f Level-0 table #46: 9655388 bytes OK
+2024/08/18-15:51:17.535 565f Delete type=0 #40
+2024/08/18-17:51:19.888 565f Level-0 table #48: started
+2024/08/18-17:51:19.932 565f Level-0 table #48: 6669568 bytes OK
+2024/08/18-17:51:19.934 565f Delete type=0 #45

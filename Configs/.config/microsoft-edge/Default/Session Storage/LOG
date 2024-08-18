@@ -1,0 +1,14 @@
+2024/08/18-15:49:30.835 4 Reusing MANIFEST /home/devv/.config/microsoft-edge/Default/Session Storage/MANIFEST-000001
+2024/08/18-15:49:30.838 4 Recovering log #8
+2024/08/18-15:49:30.841 4 Reusing old log /home/devv/.config/microsoft-edge/Default/Session Storage/000008.log 
+2024/08/18-16:20:32.846 5 Level-0 table #11: started
+2024/08/18-16:20:32.851 5 Level-0 table #11: 24953 bytes OK
+2024/08/18-16:20:32.856 5 Delete type=0 #8
+2024/08/18-16:20:32.857 5 Compacting 4@0 + 0@1 files
+2024/08/18-16:20:32.866 5 Generated table #12@0: 39 keys, 4796 bytes
+2024/08/18-16:20:32.866 5 Compacted 4@0 + 0@1 files => 4796 bytes
+2024/08/18-16:20:32.869 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/08/18-16:20:32.871 5 Delete type=2 #6
+2024/08/18-16:20:32.872 5 Delete type=2 #11
+2024/08/18-16:20:32.872 5 Delete type=2 #3
+2024/08/18-16:20:32.872 5 Delete type=2 #8

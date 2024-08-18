@@ -1,0 +1,6 @@
+2024/08/18-15:49:30.109 565c Reusing MANIFEST /home/devv/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/08/18-15:49:30.111 565c Recovering log #19
+2024/08/18-15:49:30.113 565c Reusing old log /home/devv/.config/microsoft-edge/Default/Sync Data/LevelDB/000019.log 
+2024/08/18-17:57:50.100 565d Level-0 table #24: started
+2024/08/18-17:57:50.108 565d Level-0 table #24: 102770 bytes OK
+2024/08/18-17:57:50.110 565d Delete type=0 #19

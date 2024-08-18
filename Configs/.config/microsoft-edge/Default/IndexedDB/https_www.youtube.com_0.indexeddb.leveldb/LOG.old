@@ -1,0 +1,9 @@
+2024/08/17-20:51:09.495 6170 Reusing MANIFEST /home/devv/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/17-20:51:09.496 6170 Recovering log #49
+2024/08/17-20:51:09.497 6170 Reusing old log /home/devv/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000049.log 
+2024/08/17-20:51:33.703 6171 Compacting 1@1 + 1@2 files
+2024/08/17-20:51:33.717 6171 Generated table #52@1: 332 keys, 74936 bytes
+2024/08/17-20:51:33.718 6171 Compacted 1@1 + 1@2 files => 74936 bytes
+2024/08/17-20:51:33.720 6171 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/17-20:51:33.721 6171 Delete type=2 #47
+2024/08/17-20:51:33.721 6171 Delete type=2 #50

@@ -1,0 +1,1807 @@
+{
+   "checksum": "460416b6314aae9cf6da6d40890feb04",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13353036486741389",
+            "date_last_used": "13368382621101311",
+            "guid": "0b5fb2e3-574c-4c10-83c4-0f0ec5c19f4a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13355359620230134",
+            "date_last_used": "0",
+            "guid": "5d7e44f3-6fdc-4e33-8f70-8162b20507eb",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://music.youtube.com/"
+         }, {
+            "date_added": "13356366589847168",
+            "date_last_used": "13361379751119118",
+            "guid": "5aa801ab-c9db-4b79-acc1-0d23a32335eb",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13364783673200979",
+            "date_last_used": "13368384693131812",
+            "guid": "b05c69a7-6f1b-417d-8a61-53074fb6be15",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/"
+         }, {
+            "date_added": "13353036906449034",
+            "date_last_used": "0",
+            "guid": "0d8446e5-1a46-4a74-a157-e4f9ef703d81",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Moodle",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moodle.oth-aw.de/my/"
+         }, {
+            "date_added": "13353036441438638",
+            "date_last_used": "0",
+            "guid": "f7af768a-101c-404f-b2f7-732dab0dcdc5",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.overleaf.com/project"
+         }, {
+            "date_added": "13353022186185529",
+            "date_last_used": "13368393848034462",
+            "guid": "a19ce9d9-b562-4cf5-a961-51afddedea15",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13359646021838565",
+            "date_last_used": "0",
+            "guid": "6b0e9d5a-6db4-4c96-85a4-b79652325297",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://huggingface.co/"
+         }, {
+            "date_added": "13353036332965780",
+            "date_last_used": "13368394155479290",
+            "guid": "8f2a84ae-8345-484d-8add-f9d77f577e2d",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13363747593167347",
+            "date_last_used": "13368460760318606",
+            "guid": "3cb73bfd-d868-45ef-8cfb-8239f21e3bbe",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://claude.ai/chats"
+         }, {
+            "date_added": "13353870902624441",
+            "date_last_used": "13363779660064853",
+            "guid": "d4166d68-6325-4006-94b6-d77195f2e8d1",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MyOTH",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.oth-aw.de/en/myoth/"
+         }, {
+            "date_added": "13353036855075029",
+            "date_last_used": "13357480078136161",
+            "guid": "93ff8b34-d291-4ec2-8a0a-b936ea991f14",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Primus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www3.primuss.de/cgi-bin/sesam/index.pl?FH=fhaw&Session=ai1686xo763ke19o8clcn7xfb7j4jes2jtx1z209gwrs0ytj68&User=6ed7&Portal=1"
+         }, {
+            "date_added": "13353037044672419",
+            "date_last_used": "0",
+            "guid": "062cc226-e032-4458-b1e8-47b5535d4fa5",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RS-Wiki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://rs-server/wiki/index.php/Hauptseite"
+         }, {
+            "date_added": "13353009471186026",
+            "date_last_used": "0",
+            "guid": "16fdbd23-a819-4dce-8f49-2b037c741a18",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://webmail.oth-aw.de/gw/mailbox/default"
+         }, {
+            "date_added": "13353022018372521",
+            "date_last_used": "0",
+            "guid": "edd8450d-7017-4e84-96c8-2c53a0da8a6c",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://myfiles.oth-aw.de/filr/user/home"
+         }, {
+            "date_added": "13353021983280110",
+            "date_last_used": "0",
+            "guid": "4ec1ecad-691c-45aa-9613-92339dd1527b",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitLab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://git.oth-aw.de/"
+         }, {
+            "date_added": "13356801867049664",
+            "date_last_used": "0",
+            "guid": "905e3190-f281-45f4-85e1-1e7d907bb1b2",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://open.spotify.com/playlist/59dcqjegD5Qi39xGzk2h2b"
+         }, {
+            "date_added": "13353022102840998",
+            "date_last_used": "13357146002326451",
+            "guid": "27579f6b-5193-4c18-8e85-04720325e490",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/in/carl-kueschall-846776265/"
+         }, {
+            "date_added": "13353022150173845",
+            "date_last_used": "0",
+            "guid": "d9a98e7b-31f9-4b83-8fa3-53b59f4301bb",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ing.de/"
+         }, {
+            "date_added": "13358191119100427",
+            "date_last_used": "13358514842278494",
+            "guid": "10d76b92-a077-470a-b83a-36d4a9ec2da3",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.elster.de/eportal/meinelster/meinposteingang"
+         }, {
+            "children": [ {
+               "date_added": "13355340539362036",
+               "date_last_used": "0",
+               "guid": "745845ce-ad6f-46e4-a90d-04d9713c1862",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Rain & Thunderstorm Sounds | Crackling Fireplace | 3 hours - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=3sL0omwElxw"
+            }, {
+               "date_added": "13357933826186005",
+               "date_last_used": "0",
+               "guid": "80a9147d-70fe-42aa-a2e2-695d5317ae93",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Stuff we did-married life(1hour slowed with rain) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZNLVDRF5Yjg"
+            }, {
+               "date_added": "13359058770766020",
+               "date_last_used": "0",
+               "guid": "6382b2ba-5e5e-4ed4-9f82-b32e771edd0c",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Bunker Theme (extended) -1 hour Nier:Automata - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=oqscCVq_wy0"
+            }, {
+               "date_added": "13359666980674308",
+               "date_last_used": "0",
+               "guid": "348859d8-37b8-4eee-9c4b-bf2327041272",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Rainy Jazz Cafe - Langsame Jazzmusik im Café-Ambiente zum Arbeiten, Lernen und Entspannen - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NJuSStkIZBg"
+            }, {
+               "date_added": "13359667062612071",
+               "date_last_used": "0",
+               "guid": "89f6aa6f-f908-47ad-8cf8-0d969474b16c",
+               "id": "34",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Persona 5 Jazz Cafe Mix (w/ Cafe & Rain Ambience) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MF8RFD7tk48"
+            }, {
+               "date_added": "13360260436144926",
+               "date_last_used": "0",
+               "guid": "192aa2f5-2eec-422b-8163-82e4d59898ca",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "No More What Ifs - Persona 5 Royal | 10 Hours w/ Rain & Thunder - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RLfkX6bhSuU"
+            }, {
+               "date_added": "13360792677460963",
+               "date_last_used": "0",
+               "guid": "633638b3-27d7-49e4-ab08-27ce9f27d47d",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(1118) Persona 5 - Beneath the Mask - Rainy Mood - 10 Hours - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Uq7kyf1T_lk&t=13571s"
+            }, {
+               "date_added": "13361359945124725",
+               "date_last_used": "0",
+               "guid": "c20d6528-d742-4863-b53c-b406f6e4dea3",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "everything will be ok.(minecraft music ambience w/ campfire sound) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zYj_juMfOLw"
+            }, {
+               "date_added": "13361978474036581",
+               "date_last_used": "0",
+               "guid": "9b245757-d830-4a6c-b051-057dadfb7b02",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(58) Sfeervolle slaapkamer met zacht avondgeluid van regen en vuur | 3 uur | Regengeluiden - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Hv-tOsX0yJg"
+            }, {
+               "date_added": "13362402977079171",
+               "date_last_used": "0",
+               "guid": "88f2b331-9ffa-40d8-a358-c2bcc1f36d9e",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(129) night-runners ost be like: - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=fdc5a83s7W8"
+            }, {
+               "date_added": "13362608994938023",
+               "date_last_used": "0",
+               "guid": "a45fef9b-387e-40ee-bc03-8ebd49cfb8f5",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Café Leblanc | Coffee Shop Ambience: Smooth Jazz Persona Music & Rain to Study, Relax, & Sleep - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZXni9_91ORs"
+            }, {
+               "date_added": "13363455769275279",
+               "date_last_used": "0",
+               "guid": "092034c8-af79-4834-b26d-676fb2521148",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "12 minutes of mix playboi carti, that will let you float by destxmido (528hz) - YouTube Music",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://music.youtube.com/watch?v=BHjZlL6_egM&list=PL1sFm_vHxofSIsP3vfPnWQiB7MxKwWxmG"
+            }, {
+               "date_added": "13364337839026157",
+               "date_last_used": "0",
+               "guid": "4a45033b-78a2-4fd1-b2a7-cf5d9f56cc19",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "songs to occupy an empty noggin. (upbeat & chill video game music mix) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hPt1gUE1zAc&list=WL&index=3"
+            }, {
+               "date_added": "13364337894016446",
+               "date_last_used": "0",
+               "guid": "25286431-81c5-490a-9f4b-0931250c9c82",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Beneath the Mask - Persona 5 | 10 Hours w/ Gentle Rain - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=a3jwPhPT2AI&list=WL&index=4"
+            }, {
+               "date_added": "13364653560595959",
+               "date_last_used": "0",
+               "guid": "8eca4db4-c9c6-4826-be0c-ee9a2a96b2d5",
+               "id": "44",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(4Hrs)ASMR Cyberpunk 2077 - Rain on Car Ambience | Quadra Vtech. - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PhlrR5W89FI"
+            }, {
+               "date_added": "13364868180173876",
+               "date_last_used": "0",
+               "guid": "d702d115-c2c6-474e-9af0-8ffde81e2574",
+               "id": "45",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(43) Prepare to Vibe: Relaxing Dark Souls music (w/ ambience) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=9j8PyBhLUaE"
+            }, {
+               "date_added": "13365013093861523",
+               "date_last_used": "0",
+               "guid": "6df10429-d1e5-47f5-9967-cee54f4175fa",
+               "id": "46",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Angstrom AoSu 4x4 WR M – TheCubicle",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.thecubicle.com/en-de/collections/4x4-speed-cubes/products/angstrom-aosu-wr-m?_pos=2&_fid=2b5b635cc&_ss=c"
+            }, {
+               "date_added": "13365476672617609",
+               "date_last_used": "0",
+               "guid": "50d754e7-fccf-4f8c-96e2-18bdb0c03b96",
+               "id": "47",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(130) Coffee Shop Ambience | Cafe Background Noise for Study, Focus | White Noise, 백색소음 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=uiMXGIG_DQo"
+            }, {
+               "date_added": "13365730433587267",
+               "date_last_used": "0",
+               "guid": "03b93e63-f2a2-4637-929e-1441110bfc24",
+               "id": "48",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(173) Trump Vs Biden BLINKERS - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=37R3NOauCOI"
+            }, {
+               "date_added": "13366760532633136",
+               "date_last_used": "0",
+               "guid": "4e3729a1-a477-4a8f-aaa1-6b2fe78829e2",
+               "id": "49",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(349) thelema - muffled (slowed/reverb/reduced treble) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=OkbeoIi7a9g"
+            }, {
+               "date_added": "13367263060768863",
+               "date_last_used": "0",
+               "guid": "da89ec73-c053-4309-b759-927c25716cbf",
+               "id": "50",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Paco Rabanne 1 Million Parfum online kaufen",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.flaconi.de/parfum/paco-rabanne/1-million/paco-rabanne-1-million-parfum.html?variant=80049591-100&gvc=10f4aeb9-ec2f-45df-8c3e-3460ba9aa18d&pla=6379037351.19063279821.142369482365.pla-297612067635.&gad_source=1"
+            } ],
+            "date_added": "13355340537145903",
+            "date_last_used": "0",
+            "date_modified": "13367263060768863",
+            "guid": "26519105-3610-48de-afbc-3f80f934993f",
+            "id": "29",
+            "name": "Ambience",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13357842729417080",
+                  "date_last_used": "0",
+                  "guid": "3c27d748-c159-493a-bf4d-749caaf031f6",
+                  "id": "53",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Amazon.com: Mini Projector, VOPLLS 1080P Full HD Supported Video Projector, Portable Outdoor Home Theater Movie Projector, 50% Zoom, Compatible with HDMI, USB, AV, Smartphone/Tablet/Laptop (Small Projector) : Electronics",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.amazon.com/Projector-VOPLLS-Supported-Compatible-Smartphone/dp/B0BG2GFCGD/ref=nav_ya_signin?dib=eyJ2IjoiMSJ9.g3bc6wzUSB_AULTkDuUN_0bMWpQOjJflODCzSBfd2MXcr_cKMdga-XGAamK0xYEfCDYTkHSq87B5mrP2AI7l_xTo7QkwyOtXEV98h2rkb6fcE5HrXuhaoFNd0Ta4JN9dTF_0Oeeq1dfMozvcZdd24VYJoSyPbLC81GO-dmACl-7Z2eoDlzY0dglP5PRDFvTwYSjKD-mlQeUfxa6rhdcGUm6tCpUhP7PlzZJKKydr7mE.5dBP1LhMJbQ3sd_7R9VIfzMWhG51hKrgldOdLBNiMvo&dib_tag=se&keywords=pico%2Bprojector&qid=1713368958&sr=8-16&th=1"
+               } ],
+               "date_added": "13357842727368806",
+               "date_last_used": "0",
+               "date_modified": "13357842729417080",
+               "guid": "97e55781-ccd3-4c1f-83d8-0b72fcbd9bd8",
+               "id": "52",
+               "name": "Phys",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13357150919744638",
+                  "date_last_used": "13357219093146011",
+                  "guid": "101afdf0-7d9f-4a8a-aa57-abab4344f686",
+                  "id": "55",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&headerText=All%20Sessions&layout=list&page=1&q=-&sort=date&sortDir=desc"
+               }, {
+                  "date_added": "13357221051333261",
+                  "date_last_used": "0",
+                  "guid": "65a8b1d8-6344-4bf0-8c10-7953cada1a0f",
+                  "id": "56",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Borrowing from Astronomy to Improve Deep Learning Weather Prediction | NVIDIA On-Demand",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51462/"
+               }, {
+                  "date_added": "13357221320309011",
+                  "date_last_used": "0",
+                  "guid": "e25900c3-f6cf-4ae1-8b6a-d0805dd69816",
+                  "id": "57",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Huge Ensembles of Weather Extremes using NVIDIA's Fourier Forecasting Neural Network (FourCastNet) | NVIDIA On-Demand",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.nvidia.com/en-us/on-demand/session/gtc24-s61436/"
+               }, {
+                  "date_added": "13357862653628702",
+                  "date_last_used": "0",
+                  "guid": "a07883cf-6356-494b-93c5-b88335519fd4",
+                  "id": "58",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "NVIDIA/modulus-makani: Massively parallel training of machine-learning based weather and climate models",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://github.com/NVIDIA/modulus-makani"
+               }, {
+                  "date_added": "13357862706774287",
+                  "date_last_used": "0",
+                  "guid": "cbbfec69-f8ea-4839-b0dd-ba0ec268fb91",
+                  "id": "59",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "NVIDIA/earth2mip: Earth-2 Model Intercomparison Project (MIP) is a python framework that enables climate researchers and scientists to explore and experiment with AI models for weather and climate.",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://github.com/NVIDIA/earth2mip"
+               }, {
+                  "date_added": "13359566891366959",
+                  "date_last_used": "0",
+                  "guid": "c23f4352-23fb-4296-8e96-8de0c5ad5294",
+                  "id": "60",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "earth :: a global map of wind, weather, and ocean conditions",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://earth.nullschool.net/"
+               }, {
+                  "date_added": "13360699287958167",
+                  "date_last_used": "0",
+                  "guid": "af861c65-74a2-4131-902e-c16da071d6e7",
+                  "id": "61",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Modulus Checkpoints: FourCastNet V2 Small | NVIDIA NGC",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/teams/modulus/models/modulus_fcnv2_sm/files"
+               }, {
+                  "date_added": "13361388232272790",
+                  "date_last_used": "0",
+                  "guid": "a312ed2d-1461-4275-aaa7-c3d32eb14010",
+                  "id": "62",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Library - Anthropic",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://docs.anthropic.com/en/prompt-library/library"
+               }, {
+                  "date_added": "13361300720024921",
+                  "date_last_used": "0",
+                  "guid": "45e44c5c-b62b-44af-8f95-df72556ed98e",
+                  "id": "63",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Running Ensemble Inference — Earth-2 MIP 0.2.0a0 documentation",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://nvidia.github.io/earth2mip/examples/01_ensemble_inference.html"
+               }, {
+                  "date_added": "13361978855774054",
+                  "date_last_used": "13363783528025369",
+                  "guid": "45ca637f-eae5-485e-be30-bcc7eccb6846",
+                  "id": "64",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Access Tokens | Cesium ion",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://ion.cesium.com/tokens?page=1"
+               }, {
+                  "date_added": "13364397673218508",
+                  "date_last_used": "0",
+                  "guid": "5a9b9cb3-f349-4444-b63f-2bf84fa076fe",
+                  "id": "65",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "240628 VUE Kueschall Carl Dok | High Quality Version - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=EAnRz1JgYzc"
+               } ],
+               "date_added": "13357221036099035",
+               "date_last_used": "0",
+               "date_modified": "13364397673218508",
+               "guid": "5e55ce4c-9098-4824-87d4-dd587ccdf260",
+               "id": "54",
+               "name": "Visualisierung",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13355912970251815",
+                  "date_last_used": "13355960861029589",
+                  "guid": "bf218a65-f3fd-4426-ab82-a4b30286470c",
+                  "id": "67",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "IBM Quantum Platform",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://quantum.ibm.com/"
+               }, {
+                  "date_added": "13356033205647350",
+                  "date_last_used": "0",
+                  "guid": "bd96c479-0bf0-40cd-a4b1-7e3dd4c5529d",
+                  "id": "68",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Quantum Computing Course: 1.6 The Hadamard Gate and the +, -, i and -i States - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=G9d0QWM82sU&list=PL4wzlfHhrqQzJfrxDv2nYmLwvDBZmPb9-&index=11"
+               } ],
+               "date_added": "13356033201265514",
+               "date_last_used": "0",
+               "date_modified": "13356033205647350",
+               "guid": "664404f7-0563-4130-b673-ce727744ce6a",
+               "id": "66",
+               "name": "Quantum",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13355846141679481",
+                  "date_last_used": "0",
+                  "guid": "81f70d29-266d-45af-b3f6-008956e91722",
+                  "id": "70",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Sage Cell Server",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://sagecell.sagemath.org/"
+               } ],
+               "date_added": "13355846121819571",
+               "date_last_used": "0",
+               "date_modified": "13355846141679481",
+               "guid": "f0189349-cb60-4586-9f66-e6cb769cc918",
+               "id": "69",
+               "name": "Krypto",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13355340385384493",
+                  "date_last_used": "0",
+                  "guid": "fdf52773-5463-4929-8ec0-da26cf0ced6e",
+                  "id": "72",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Digitale Datenbanken",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/bibliothek/suchen-und-finden/#datenbanken"
+               }, {
+                  "date_added": "13355340433400172",
+                  "date_last_used": "0",
+                  "guid": "5da2f945-421e-46a4-a5db-abb2e425ebc8",
+                  "id": "73",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Publikationen Tiefel",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.oth-aw.de/tiefel/publikationen/"
+               }, {
+                  "date_added": "13355340493310684",
+                  "date_last_used": "0",
+                  "guid": "76e2a328-6fb5-47b7-a75f-bcf63366f85f",
+                  "id": "74",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Google Scholar",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://scholar.google.com/"
+               } ],
+               "date_added": "13355340460802074",
+               "date_last_used": "0",
+               "date_modified": "13355340493310684",
+               "guid": "19895a6a-6ecf-48af-89d7-22367b7ffb01",
+               "id": "71",
+               "name": "Innov",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13358626597457087",
+                  "date_last_used": "0",
+                  "guid": "a7d6e8ea-1124-4672-b688-34a9bd2761e0",
+                  "id": "76",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Deep Q-Learning (DQL) / Deep Q-Network (DQN) Explained | Python+Pytorch Deep Reinforcement Learning - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=EUrWGTCGzlA"
+               }, {
+                  "date_added": "13358626601819555",
+                  "date_last_used": "0",
+                  "guid": "3dd0c187-1a37-4441-a4e3-aa0a42787f02",
+                  "id": "77",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Deep Q Learning w/ DQN - Reinforcement Learning p.5 - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=t3fbETsIBCY"
+               }, {
+                  "date_added": "13358636434159538",
+                  "date_last_used": "0",
+                  "guid": "4b48b02d-01e1-4520-8c02-8192a2a51639",
+                  "id": "78",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Deep Q-Learning Explained - Part 2: Integrate Convolution Neural Network CNN into Deep Q-Network DQN - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=qKePPepISiA"
+               }, {
+                  "date_added": "13359064128699151",
+                  "date_last_used": "0",
+                  "guid": "13548f9b-b03c-4019-aff8-57676e479978",
+                  "id": "79",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "poloclub/cnn-explainer: Learning Convolutional Neural Networks with Interactive Visualization.",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://github.com/poloclub/cnn-explainer"
+               }, {
+                  "date_added": "13364069286288073",
+                  "date_last_used": "0",
+                  "guid": "d8d790d8-cc98-45d5-9ee4-62c588909b09",
+                  "id": "80",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(401) Monte Carlo Tree Search - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=UXW2yZndl7U&t=658s"
+               } ],
+               "date_added": "13358626594621595",
+               "date_last_used": "0",
+               "date_modified": "13364069286288073",
+               "guid": "8dc57a5a-b731-4b51-833d-7a972280a666",
+               "id": "75",
+               "name": "RL",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13364668580041319",
+                  "date_last_used": "0",
+                  "guid": "91830be3-b878-47d3-8536-8203898c2f62",
+                  "id": "82",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Higgs Boson Event Detection - Part 1. EDA",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.kaggle.com/code/sugataghosh/higgs-boson-event-detection-part-1-eda"
+               }, {
+                  "date_added": "13364674083465793",
+                  "date_last_used": "0",
+                  "guid": "7e12ba4e-6bde-4889-88c5-1e13c4f5fa8d",
+                  "id": "83",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Higgs Boson Challenge Report arxiv",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://arxiv.org/abs/1510.02674"
+               } ],
+               "date_added": "13364668578211308",
+               "date_last_used": "0",
+               "date_modified": "13364674083465793",
+               "guid": "6f36f39c-4d05-4c35-ba21-02756589926f",
+               "id": "81",
+               "name": "DeepLearningModA",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13357858188853288",
+            "date_last_used": "0",
+            "date_modified": "13357858188853288",
+            "guid": "8fa4ab27-b329-4bd6-9a73-1cc9463dfb64",
+            "id": "51",
+            "name": "SS24",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13361894520358667",
+                  "date_last_used": "13362251894713128",
+                  "guid": "f2ad14f6-9384-40e3-9038-f6a0a414f660",
+                  "id": "86",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "2,500+ ChatGPT Prompt Templates",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da?p=e7b816a3f97144a0b518f4f428395435&pm=s"
+               }, {
+                  "date_added": "13361894650402592",
+                  "date_last_used": "0",
+                  "guid": "babf06da-2ca4-466e-a426-cd2ef3deb3ee",
+                  "id": "87",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Prompts - AIPRM for ChatGPT",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://app.aiprm.com/prompts?page=1&pageSize=4&topic=All&activity=All&sortBy=1&search=&promptList=0"
+               } ],
+               "date_added": "13361894574648706",
+               "date_last_used": "0",
+               "date_modified": "13361894650402592",
+               "guid": "cbcbbda7-84e4-4ad8-b888-22e74ca5e8cd",
+               "id": "85",
+               "name": "Prompting Libraries",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13362833852394153",
+                  "date_last_used": "0",
+                  "guid": "d1a04344-6139-4efc-b95a-d55a1bf65ba5",
+                  "id": "89",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "ASUS ProArt GeForce RTX 4080 SUPER OC Grafikkarte - 16GB GDDR6X | Nullprozentshop.de",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.nullprozentshop.de/p/asus-proart-geforce-rtx-4080-super-oc-grafikkarte/a1040031?nbbct=4001_geizhals_nps"
+               }, {
+                  "date_added": "13361637968267176",
+                  "date_last_used": "13366218878088887",
+                  "guid": "33734b83-4efd-4614-b5dd-52153139ed9d",
+                  "id": "90",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Serper - Playground",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://serper.dev/playground"
+               }, {
+                  "date_added": "13365616822566343",
+                  "date_last_used": "0",
+                  "guid": "33ef21ca-7e3f-4c81-9aad-a78f815e96db",
+                  "id": "91",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "WebSim - How to Use WebSim for Beginners",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://websim.ai/c/lyIIJIEemsdt7wnJC"
+               } ],
+               "date_added": "13362833809407998",
+               "date_last_used": "0",
+               "date_modified": "13365616822566343",
+               "guid": "5964c520-5a2e-4a36-8892-b52f2320a691",
+               "id": "88",
+               "name": "Interesting and useful tech",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13361360113160562",
+               "date_last_used": "13367697160314762",
+               "guid": "63fe4ece-88ab-4527-86cf-6b0bccda7087",
+               "id": "92",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "MiLoDokV",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.oth-aw.de/public/milodokv/index.php"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13366407092746129",
+                     "date_last_used": "0",
+                     "guid": "978a8437-d25c-4a6f-a612-f013967163f3",
+                     "id": "95",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Generative AI and Digital Twins in 2024 | XMPro Webinar - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=zALvKH3O1H0"
+                  }, {
+                     "date_added": "13366407099952085",
+                     "date_last_used": "0",
+                     "guid": "a965ebfc-f55b-4fa6-8bad-85452830957e",
+                     "id": "96",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Fusing Real-Time AI With Digital Twins - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=l5M4sqaRd6w"
+                  }, {
+                     "date_added": "13366407102505626",
+                     "date_last_used": "0",
+                     "guid": "f97c0120-ca22-4501-b273-6b7529ca08af",
+                     "id": "97",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "How do you scale Digital Twins? - Interview with Mike Geyer, Head of Digital Twins at NVIDIA #gtc24 - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=jInHQSrgkJM"
+                  } ],
+                  "date_added": "13366401239524684",
+                  "date_last_used": "0",
+                  "date_modified": "13366407102505626",
+                  "guid": "edb9e59b-8ee8-476c-973c-0dcd83eaa0bd",
+                  "id": "94",
+                  "name": "Digital Twins",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366217615727458",
+                     "date_last_used": "0",
+                     "guid": "43de1798-aae7-4f67-86f6-d62c5d4af0f5",
+                     "id": "99",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "(252) Transforming 3D Workflows With OpenUSD, the 3D Ecosystem of the Future - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=KYfCHkccD8g"
+                  }, {
+                     "date_added": "13366217953351812",
+                     "date_last_used": "0",
+                     "guid": "ba8b4bfb-44e4-4dd0-8b04-b7743dd06b57",
+                     "id": "100",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "(252) Using ChatGPT and GPT-4 to Generate 3D Content in Omniverse - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=mFazJsjUUSo"
+                  }, {
+                     "date_added": "13366218703866588",
+                     "date_last_used": "0",
+                     "guid": "18283554-c5ef-4b69-8fcd-77db7f272437",
+                     "id": "101",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "(AD) (252) Getting Started with NVIDIA's Omniverse Create (FREE) - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=VOoG5ligj3I&t=18s"
+                  }, {
+                     "date_added": "13366218746095918",
+                     "date_last_used": "0",
+                     "guid": "7cf23711-8f2f-4427-8eba-fc7c6d2088ce",
+                     "id": "102",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Pixar Universal Scene Description USD | NVIDIA Developer",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://developer.nvidia.com/usd"
+                  }, {
+                     "date_added": "13366219277945364",
+                     "date_last_used": "0",
+                     "guid": "29d00a45-cd37-4860-bd2f-282f89d498bc",
+                     "id": "103",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Course Detail | NVIDIA",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-05+V1"
+                  } ],
+                  "date_added": "13366401246139343",
+                  "date_last_used": "0",
+                  "date_modified": "13366401246139343",
+                  "guid": "828eb9b2-c039-4c76-8943-8f7ca9cf6ba2",
+                  "id": "98",
+                  "name": "Omniverse Basics",
+                  "source": "unknown",
+                  "type": "folder"
+               } ],
+               "date_added": "13366217614162474",
+               "date_last_used": "0",
+               "date_modified": "13366217614162474",
+               "guid": "09b039c0-4826-4fbf-9ded-a935b93fb63f",
+               "id": "93",
+               "name": "NVIDIA Visual Computing",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13365615268232430",
+               "date_last_used": "0",
+               "guid": "8a799fb7-cc8e-4eb7-801e-b0fd6030eb40",
+               "id": "104",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "NotebookLM",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://notebooklm.google.com/notebook/14fab3a6-0f08-4815-a46a-c82309978126?hl=en"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13366403612624657",
+                     "date_last_used": "0",
+                     "guid": "b0bcfc8f-d4ba-4659-b928-5a607ca82108",
+                     "id": "107",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Gen-3 Alpha | Runway",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://runwayml.com/ai-tools/gen-3-alpha/"
+                  }, {
+                     "date_added": "13366404298749321",
+                     "date_last_used": "0",
+                     "guid": "a601dd7a-0e6a-4b57-839a-0ab02faf8fac",
+                     "id": "108",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Kelin AI - The next generation of AI creative productivity platform",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://klingai.kuaishou.com/"
+                  }, {
+                     "date_added": "13366404303991580",
+                     "date_last_used": "0",
+                     "guid": "a2d72f64-2d8e-470f-8231-67b542c861be",
+                     "id": "109",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Luma Dream Machine",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://lumalabs.ai/dream-machine"
+                  } ],
+                  "date_added": "13366401216449149",
+                  "date_last_used": "0",
+                  "date_modified": "13366404303991580",
+                  "guid": "f7b00851-aec5-4826-910f-9f1312a98e64",
+                  "id": "106",
+                  "name": "CGI Pipeline",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13366399089653895",
+                     "date_last_used": "0",
+                     "guid": "493cdbc9-1cae-4d82-ac20-cb0fc3c65864",
+                     "id": "111",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "NEW 2024 Ai Generative Fill - Adobe Photoshop Beta - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=7y5YfQ8pbkE"
+                  }, {
+                     "date_added": "13366399457448410",
+                     "date_last_used": "0",
+                     "guid": "8236bee5-ab59-45b9-a876-4777855864ce",
+                     "id": "112",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Amazing New Midjourney Feature - Personalized Models! - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=D4PxhERZKs8"
+                  }, {
+                     "date_added": "13366400310876169",
+                     "date_last_used": "0",
+                     "guid": "083d1b1d-969e-40f2-b707-834edd450a2f",
+                     "id": "113",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "10 Practical Midjourney Tips to Master Ai Images - Answering Your Toughest Questions! - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=KMw-XEBcYWY"
+                  }, {
+                     "date_added": "13366400993160856",
+                     "date_last_used": "0",
+                     "guid": "e77556ab-c1e5-45b9-917a-f91e873a72a7",
+                     "id": "114",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "41 Midjourney Tips for Beginners in 2024 (Extended Version) - YouTube",
+                     "show_icon": false,
+                     "source": "sync",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=XcskL-_afws"
+                  } ],
+                  "date_added": "13366401190913829",
+                  "date_last_used": "0",
+                  "date_modified": "13366401190913829",
+                  "guid": "5e4ce350-bbe2-4a61-8d2b-3bd4d3bfcff6",
+                  "id": "110",
+                  "name": "Digital Image Editing",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "children": [  ],
+                  "date_added": "13366401231229981",
+                  "date_last_used": "0",
+                  "date_modified": "13366401231229981",
+                  "guid": "1b5bc22f-af25-4b62-a38b-f91f06798780",
+                  "id": "115",
+                  "name": "What is AI in relation to creativity?",
+                  "source": "unknown",
+                  "type": "folder"
+               }, {
+                  "date_added": "13367775106777266",
+                  "date_last_used": "0",
+                  "guid": "61a6b698-5ac5-4f87-b878-5ffffbca0d51",
+                  "id": "116",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Stable Diffusion 2-1 - a Hugging Face Space by stabilityai",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://huggingface.co/spaces/stabilityai/stable-diffusion"
+               } ],
+               "date_added": "13366399111273485",
+               "date_last_used": "0",
+               "date_modified": "13367775106777266",
+               "guid": "602a1795-f227-4b5d-8a21-eac3e948881f",
+               "id": "105",
+               "name": "Gen-AI for Visual Computing",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13359597215107779",
+            "date_last_used": "0",
+            "date_modified": "13365615268232430",
+            "guid": "4ad199bd-3478-4cb7-b1cc-e74ab4dbc011",
+            "id": "84",
+            "name": "SHK",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13359472999506617",
+            "date_last_used": "0",
+            "guid": "468fd3e7-acea-4878-86eb-9e8f01ef9583",
+            "id": "117",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onedrive.live.com/?id=C98F222969C9843%2155736&cid=0C98F222969C9843"
+         }, {
+            "date_added": "13359214791480095",
+            "date_last_used": "13363779739622281",
+            "guid": "81fb38a9-dcb9-4348-92e8-41283df7d707",
+            "id": "118",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://outlook.live.com/mail/0/"
+         }, {
+            "date_added": "13359216503116102",
+            "date_last_used": "13367772780750366",
+            "guid": "8f873f41-330d-47fb-9a18-566f0c6a9ae7",
+            "id": "119",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://trello.com/b/q1G8LG7y/vclab-intercom-ki"
+         }, {
+            "children": [ {
+               "date_added": "13364658557970154",
+               "date_last_used": "0",
+               "guid": "61a5f04e-3656-4d2f-820a-3bbba64353ca",
+               "id": "121",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How Stable Diffusion Works (AI Image Generation) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sFztPP9qPRc"
+            }, {
+               "date_added": "13364658560511790",
+               "date_last_used": "0",
+               "guid": "9ef73aa8-a58b-478d-b59a-cc4e5f562f21",
+               "id": "122",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Civitai Beginners Guide To AI Art // #1 Core Concepts - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=IIy3YwsXtTE"
+            }, {
+               "date_added": "13364658563544742",
+               "date_last_used": "0",
+               "guid": "d86601bc-1d0d-4772-941d-0e58d409dd11",
+               "id": "123",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Components Of Stable Diffusion - Stable Diffusion Masterclass - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_JZPKbEp6gk"
+            }, {
+               "date_added": "13364658571031513",
+               "date_last_used": "0",
+               "guid": "6fa53d6c-ae49-4210-984d-193f3caff221",
+               "id": "124",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1CIpzeNxIhU"
+            }, {
+               "date_added": "13365618265339210",
+               "date_last_used": "0",
+               "guid": "a8fc61ac-547e-4bed-b0c8-b8d895dce94c",
+               "id": "125",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Civitai: The Home of Open-Source Generative AI",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://civitai.com/"
+            } ],
+            "date_added": "13364658549954537",
+            "date_last_used": "0",
+            "date_modified": "13365618265339210",
+            "guid": "b2b84334-542f-40fd-ab28-6488f266b5ba",
+            "id": "120",
+            "name": "sd",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13364784576220999",
+               "date_last_used": "0",
+               "guid": "3970d166-625b-465d-b9da-28289efb1f81",
+               "id": "127",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "My journey of ricing Arch Linux | peterpf.dev",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://peterpf.dev/posts/ricing-arch-linux/"
+            }, {
+               "date_added": "13364784580535667",
+               "date_last_used": "0",
+               "guid": "622ac441-6d85-40d5-86a3-e659f2bc493d",
+               "id": "128",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "i3 - improved tiling wm",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://i3wm.org/"
+            }, {
+               "date_added": "13364849985991681",
+               "date_last_used": "0",
+               "guid": "a63bb9d3-3fcd-4f08-a537-5ff466ae57cf",
+               "id": "129",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(42) Arch Linux: A ℂ𝕠𝕞𝕗𝕪 Install Guide - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=68z11VAYMS8"
+            }, {
+               "date_added": "13364850563991176",
+               "date_last_used": "0",
+               "guid": "b3c754b5-2dcb-4192-92a8-c2ff8917a1a8",
+               "id": "130",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(42) Arch Linux post install Guide - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YPrhIfm3VJs"
+            }, {
+               "date_added": "13364854817975056",
+               "date_last_used": "0",
+               "guid": "59076d84-4511-4b68-8e76-e1f95af74030",
+               "id": "131",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[GNOME] 3D desktop and other fun effects : r/unixporn",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/uvaat7/gnome_3d_desktop_and_other_fun_effects/"
+            }, {
+               "date_added": "13364855110604889",
+               "date_last_used": "0",
+               "guid": "1e5ae31f-d596-417d-bb64-f9e86c505c8e",
+               "id": "132",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "BOTTLES | Easily run Windows software on Linux with Bottles! ⋅ Bottles",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://usebottles.com/"
+            }, {
+               "date_added": "13364855681295596",
+               "date_last_used": "0",
+               "guid": "d51bb947-0714-42f2-9553-a7169d88e224",
+               "id": "133",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[aqua/yabai] A fun & colorful rice to brighten my home-bound days : r/unixporn",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/jupmda/aquayabai_a_fun_colorful_rice_to_brighten_my/"
+            }, {
+               "date_added": "13364855921015711",
+               "date_last_used": "0",
+               "guid": "a4020974-2f7e-47d4-9642-f40ee4c8c9e1",
+               "id": "134",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Archcraft Gallery",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://gallery.archcraft.io/"
+            }, {
+               "date_added": "13364855952578160",
+               "date_last_used": "0",
+               "guid": "7e3a7f63-718b-40a1-896a-0d72ac911fae",
+               "id": "135",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Archcraft : Home",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://archcraft.io/"
+            }, {
+               "date_added": "13364865774666250",
+               "date_last_used": "0",
+               "guid": "58e45669-42ec-4ec3-a398-9df9cf14035b",
+               "id": "136",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(43) Linux Ricing - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RuofJYG2yak"
+            }, {
+               "date_added": "13364868813383422",
+               "date_last_used": "0",
+               "guid": "39cc96e9-0db2-4613-a427-daf06d5d1ab8",
+               "id": "137",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[oc] [rofi] A bunch of Rofi themes for you all, choose you type-use your type : r/unixporn",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/wndrz1/oc_rofi_a_bunch_of_rofi_themes_for_you_all_choose/"
+            }, {
+               "date_added": "13367710387793819",
+               "date_last_used": "0",
+               "guid": "df8fbfc9-7ba8-4a2f-b2a3-48c8267fe2d9",
+               "id": "138",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(508) MindBlowing ArchLinux HyprLand Setup // Make Your Linux Desktop Look Modern and Professional - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=WuZ2T6D_9yI"
+            }, {
+               "date_added": "13367711228750166",
+               "date_last_used": "0",
+               "guid": "64c5e72c-6652-4336-a59c-26295598b814",
+               "id": "139",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Arch Install and Hyprland setup - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=lfUWwZqzHmA"
+            }, {
+               "date_added": "13367880940137233",
+               "date_last_used": "0",
+               "guid": "28e53420-7457-46a7-b73b-c090c53caf94",
+               "id": "140",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(533) Setup WAYBAR, the status bar for HYPRLAND with standard and custom modules for your window manager. - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=rW3JKs1_oVI"
+            }, {
+               "date_added": "13367886358986005",
+               "date_last_used": "0",
+               "guid": "d140907a-b2a4-4e42-afb1-5e591abb2415",
+               "id": "141",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "hyprland ricing guide 1-3",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/@sane1090x0/videos"
+            }, {
+               "date_added": "13368262524983898",
+               "date_last_used": "0",
+               "guid": "03aa13ae-07bd-4635-b074-69063a0e092b",
+               "id": "142",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(594) Installing Hyprland Tiling Window Manager on Arch Linux with Nvidia GPU - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=elOFuFpPSJQ"
+            } ],
+            "date_added": "13364784574597119",
+            "date_last_used": "0",
+            "date_modified": "13368262524983898",
+            "guid": "0ec01852-4c0a-49d3-93ce-8ad721008b17",
+            "id": "126",
+            "name": "unix_ricing",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13365348582704632",
+            "date_last_used": "0",
+            "guid": "b8acd855-403c-45f0-9bbc-475794bd4834",
+            "id": "143",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Netflix",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.netflix.com/search?q=hindi"
+         }, {
+            "date_added": "13366464388616624",
+            "date_last_used": "0",
+            "guid": "a278d4b3-ea65-4763-ac4f-c3b9bfe6110c",
+            "id": "144",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.midjourney.com/imagine"
+         }, {
+            "children": [ {
+               "date_added": "13367973747108257",
+               "date_last_used": "0",
+               "guid": "df7d568b-85e9-4b44-b5b9-3af2caf2d784",
+               "id": "146",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Vim Cheat Sheet",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vim.rtorr.com/"
+            }, {
+               "date_added": "13367973760220594",
+               "date_last_used": "0",
+               "guid": "6d0d37f0-10f2-47a1-a7fe-5f59fbc7b1eb",
+               "id": "147",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Pasted image 20230101200117.png (1920×1200)",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.ssp.sh/brain/Pasted%20image%2020230101200117.png"
+            } ],
+            "date_added": "13367973745300717",
+            "date_last_used": "0",
+            "date_modified": "13367973760220594",
+            "guid": "f253e5b1-e664-406e-9e38-c52ab67f5d52",
+            "id": "145",
+            "name": "Vim",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13368382522500671",
+         "date_last_used": "0",
+         "date_modified": "13366464388616624",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13368382522500681",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13367500988904614",
+            "date_last_used": "0",
+            "guid": "fe6c186a-e64d-4ba3-b0d6-2400746989a9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lenovo Laptop | 17.3 Inch FHD Display | Intel U300 5 x 4.40 GHz | 16 GB DDR4 RAM | 512 GB SSD | Intel UHD Graphics | Windows 11 Pro: Amazon.de: Computer & Accessories",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.amazon.de/-/en/Lenovo-Laptop-Display-Graphics-Windows/dp/B0CF62JKGR/ref=pd_aw_ci_mcx_pspc_dp_m_m_i_9?pd_rd_w=maJ1J&content-id=amzn1.sym.ae696bb8-6789-4331-a371-2d0aa5ecf5a7&pf_rd_p=ae696bb8-6789-4331-a371-2d0aa5ecf5a7&pf_rd_r=HVVN9YS8ATFM2DWFRF8Z&pd_rd_wg=M5QMN&pd_rd_r=4762bda6-a710-4f54-b07b-91f232252de3&pd_rd_i=B0CF62JKGR"
+         }, {
+            "date_added": "13367672423342015",
+            "date_last_used": "0",
+            "guid": "8b244f5b-e693-47c8-af04-eb5c3f22c563",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Quick Chilli Con Carne Recipe | 20 Minutes | Hint Of Helen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hintofhelen.com/quick-chilli-con-carne-recipe/"
+         } ],
+         "date_added": "13368382522500683",
+         "date_last_used": "0",
+         "date_modified": "13367672423342015",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOCtjmWRAQAAEgAqGHJJUDZYWktCMUtIZXpRQVVQVUZwa0E9PUgDoAYMEqgBCFwSowEKHGFJL3F2R3Y2dFRRK1JQaGJqc29VUHFMMDhhZz0SJDYzZmU0ZWNlLTg4YWItNDUyNy04NmNmLTZiMGJjY2RhNzA4NxgAIAAoADDitYPBkzI43t2k8/sxQN7dpPP7MUocQytuQXNMR1Y1Y2JEMm9udG5LbUxHU1VpNUdFPVofIh36ZzhhS0pQTUFPMUNtUVhPdGdqR3duRTBFL1JVPWX6+cprEqkBCIQBEqMBChxZb2dHaHpFVkJDcFpRb0VxdGwyT2ZRc2wzSm89EiQxZTVhZTMxZi1kNTk2LTQxN2QtYmI2NC1mOWU4NmM1MDVjOGUYACAAKAAwhITr9YgyOLO96vWIMkCzver1iDJKHGRrYmo1dkVkSkpENWtndmZUS25vNFlmdVNJdz1aHyId9S93R2xkL0RhdFpaREhvN3VHNjF1QUgweXByRT1lAAAAABKrAQiQARKlAQocL081QXlqa1dXeUtQY1NLZEZZdzV2SXVNenVFPRIkYTI3OGQ0YjMtZWE2NS00NzYzLWFjNGYtYzNiOWJmZTYxMTBjGAAgACgAMN61m/WOMji8hZn1jjJAvIWZ9Y4yShw3NGVvQklDTWxiYkV3L3NLU3dIbTlsS3hlN289WiEiH////1Vsa01YOC93V3pRMTlaVEZZZWVmaGVTMkVEOD1lUX9f9BKnAQhvEqIBChxTUEIvZ0VXZUtPa2tLeVlPL2ZBbG1QTXVuOU09EiQ0OTNjZGJjOS0xY2FlLTRkODItYWMyMC1jYjBmYzNjNjU4NjQYACAAKAAw7NiI144yOIKvh9aOMkCCr4fWjjJKHFc5YW96MUhCV09EQS90MlVLdVkwSUgyZUlyQT1aHiIcUytXc0k5MGpVRzBXMnQ0UEVxUERoWlFaV0FBPWU4+TkzEqoBCHUSpQEKHFRVbDdUYVRuVlhvTXhBK2RpcmNQVFh6NENNYz0SJDQ2OGZkM2U3LWFjZWEtNDg3OC04NmViLTllOGYwMWVmOTU4MxgAIAAoADDV8rjv9DE40cW47/QxQNHFuO/0MUocVkZvZGpjbDMwZ2ROOU13bXVRcit0NnhSV0QwPVohIh///+VvRUo4UWh1N2JxUDFmbGhPRG4yVGd4Z1kxWE09ZQDqE0wSqAEIURKjAQocVE9RNjhzOGx0b3FFUHVwUk1NQ0U5VHpWWDdNPRIkNmYzNmYzOWMtNGQwNS00YzM1LWJhMjEtMDI3NTY1ODk5MjZmGAAgACgAMP/D8ZyIMjikxvGciDJApMbxnIgyShxzVDZtYTZWMDVFQzNlMWJ3Ykc3NllwUSszWDg9Wh8iHftmOHorOUozbFh2QTgxV3BpeU5RUXhiMXZRY2s9ZQAAAAASpwEIHhKiAQocckxzZDZ0TnNkd1J3MXpZQk5hZWlIWGg1QTdJPRIkNzQ1ODQ1Y2UtYWQ2Zi00NmU0LWE5MGQtMDRkOTcxM2MxODYyGAAgACgAMKi0wJDnMTi4wMCQ5zFAuMDAkOcxShxJejl4eitpWXlHdmFPR0IwOENjS3FVQ3dZcWs9Wh4iHHVXRmh1MVFQRWRmVGxncFlxbGZJN0FialA4MD1lOPk5MxKpAQiGARKjAQocWXhqcGI3eVYvdU5LNDlpUXJPVEZXUjVxUEJZPRIkYTQwMjA5NzQtMmY3ZS00N2Q0LTk2NDItZjQwZWU0YzhjOWUxGAAgACgAMNzrm/aIMjiO7pv2iDJAju6b9ogyShxjYUllVWVIWlZVa0xBQTQ1RVdSNlRrbkhVUnc9Wh8iHf1iNnVXWjE3eElUTldTNWlNVDlWamR4Y0YyTjg9ZQAAAAASqgEIfhKlAQocM050MS81NlVIeVpJaHM2a0NEUzU2aFRYRTQwPRIkMGVjMDE4NTItNGMwYS00OWQzLTkzY2UtOGFkNzIxMDA4YjE3GAAgACgAMPqjmdSIMjjrpZnUiDJA66WZ1IgyShxrTWlIZENNczZsR2xVaE5IOFQwNUFFQS9YYWM9WiEiH////WxZTkNob2NKSUdNOUljeG5pZEtKWlRBWTZLcz1lAAAAABKnAQhwEqIBChxzY0k5Wmp4V09KTm1WYW05KyszS2RsL3hrMzQ9EiQ4MjM2YmVlNS1hYjU5LTQ1YjktYTg3Ni00Nzc3ODU1ODY0Y2UYACAAKAAw7tiI144yOMr4ndaOMkDK+J3WjjJKHG4zdVJJWjV3MHh6WnRmQm42TWxpK2d2Z1ZWZz1aHiIca0UwZWlDaU1CSFVJTTNkUXRQckhsV1BSWHRJPWU4+TkzEqoBCIwBEqQBChxvRW80OVhYbms4d1hVMlRObTFqNS9sRFU1a2s9EiQyOGU1MzQyMC03NDU3LTQ2YTctYjczYi1jMDkwYzUzY2FmOTQYACAAKAAwiLfUmJQyOOC51JiUMkDgudSYlDJKHHJxOUtXSFBIb21ScC9UeVBtVVp3MW0zYVdhdz1aICIe/91tTFZtWXdQQWc1cmpwOTNjRnJKK1NZTkVUWFE9ZTj5OTMSpwEIVxKiAQocQjBRQkRDa2ZDRy9qSWw2aXZHdVZMTHFDdENRPRIkYmFiZjA2ZGEtMmNhNC00NjZlLWE0MjYtY2QyZWYzZGViM2VlGAAgACgAMOSjlvL9MTjgqJby/TFA4KiW8v0xShxaNVhva3NXQVoreFd4WWJEMGxQT1htSjdBbmc9Wh4iHHZpZG5ycXRVM0o3RFphUUplZzNXTWNvRXFTdz1lhrbqqxKnAQhkEqIBChw2M2tnVEpQdjlGeFYwZVdVUVJnRnhKeUVuUzA9EiRiYThiNGJmYi00NGU0LTRkZDAtOGIwNC1iNzc0M2RkMDZiNTcYACAAKAAwgvSL144yOPPx1/+NMkDz8df/jTJKHG9zMzBDWmtOSWZzdUFmZmN6RjIvZEFneFJEZz1aHiIcdXlTd01GbVFIYnN5SW9LQjZtYkQyZmZ5UGE4PWU4+TkzEqsBCJEBEqUBChx5akdMZHNqU0drNG5DU1RIaEtNdGkrSXJkVk09EiRmMjUzZTViMS1lNjY0LTQwNmUtOWUzOC1jNTJhYjY3ZjVkNTIYACAAKAAwqd/0xJQyOLLi9MSUMkCy4vTElDJKHEZscUI0MUNIa3lqcUpQZlI4M1RVR1ZILzUrMD1aISIf////dnhWM3E5QUZsL1hoclRTNHM0d3U0WWkvRDRJPWUAAAAAEqgBCHISowEKHFRpNGp0ZVNuemJlM2FlRnRzNVJ5THpseTh2Zz0SJGU3NzU1NmFiLWMxZTUtNDViOS05MTdhLWY5MWU4NzNhNzJhNxgAIAAoADDv2IjXjjI4v9X71o4yQL/V+9aOMkocYTAxZlFkWVdxbHd6VlJncklXMjJLWk5udkhvPVofIh26UnhEcTkyNGZpY0tacDEwS0N5by9iVUhIdGhrPWU4+TkzEqgBCFgSowEKHFhxcVl4dmdYZTFzazNzUkZkaC9PVXJpbDN1WT0SJDU5NjRjNTIwLTVhMmUtNGEzNi04ODkyLWI1MmYyMzIwYTY5MRgAIAAoADCv1ZOAjjI4s4KAsoEyQLOCgLKBMkocNndYOThNdEhTQVJBR1NsTVRHV2dpR1JHdVFnPVofIh31Ky9rc0NncXpnSDh0aW9CZERXUkU2a1dIUGNnPWUAAAAAEqkBCGkSpAEKHDZURWVtS0d4T1FiY0xxL3NVOWhKVDdZZVhXbz0SJDYwMmExNzk1LWYyMjctNGI1ZC04YTIxLWVhYzNlOTQ4ODgxZhgAIAAoADCx5IjWjjI46+aI1o4yQOvmiNaOMkocRU1wSWtIR1hNckJ4N2x3REEzVEpQR2JTYys0PVogIh7/qS8rNlBqMWhYanFJeEI3T1ZmWHNRazlQMkUvUT1lAAAAABKnAQhfEqIBChw4MGU1aXZCQVZWdk5pTEFhVVdOTGhEV2R3RWM9EiQ5NzhhODQzNy1kMjVjLTRhNmYtYTYxMi1mMDEzOTY3MTYzZjMYACAAKAAwyZXw2Y4yOMn679mOMkDJ+u/ZjjJKHEp3Uk1jQnFOVWFmUEpTdlMzVlFTSTBOUmsyST1aHiIcbDBndXY4UThPQ1JNVTZ2MmNSQ05WTWxaZFpjPWU4+TkzEqcBCGwSogEKHHNyREF6TGgyazJja3ZjZ1FueWM0WSs0eG83TT0SJGE2MDFkZDdhLTBlNmEtNGI1Ny04MzlhLTBhYjAyZmFmOGZhYxgAIAAoADDVs8XYjjI4j7bF2I4yQI+2xdiOMkocZ01MbjlWcncxVDA5dVQrdDk5NGZEU29aMlRjPVoeIhxpM0tMZmQ3eGgvc25RR1EvT2g0MndOdDFEYWc9ZWTK4MoSqgEIMxKlAQocYUU5Skc0Y05zditiSzhiMHBheWNTZForRTE4PRIkOGZhNGFiMjctYjMyOS00YmQ2LTlhNzMtMWNjOTQ2M2RmYjY0GAAgACgAMM7GuO3uMTiny7jt7jFAp8u47e4xShxWa290L1NrUUF6eklKbnJkWWoreVVuZFU1SGM9WiEiH///ujFmcThwTHcvRExoekgxdU5FUW1jeWY0R1I0QT1lAAAAABKoAQh7EqMBChwycTFqRnRZV25zNVZJNFV2RyttR3g2NUtJL3c9EiRkODY2MDFiYy0xZDBkLTQ3NzItOTQxZC0wZTU4ZDQwOWRkMTEYACAAKAAwq6SOmIgyOMimjpiIMkDIpo6YiDJKHFh2Q01ub3pGZDFmS2pidmUySVBaaThPS0t4Zz1aHyIdtVBKdTlhM1BzMEJEcFVIdjFKNVBNdzdad0p2az1lOPk5MxKoAQh9EqMBChxUZnMrdG9maVNEN3dRbVViQ0R1Rko5K3hjaVE9EiRhOGZjNjFhYy01NDdlLTRiZWQtYjBjOC1iOGQ4OTVkY2U5NGMYACAAKAAwoYze4YsyOJLj3eGLMkCS493hizJKHEU5aS9oRGF2dHNxL3hSUlpXbk14ZFJxT2NkTT1aHyId7UlRTGwyM3lTenJ6enNRSlZvTGFvK0Y4S0srMD1lRgO0sBKoAQhtEqMBChxyKzR0d0l5ZUgwd245WlVybDZyVHIvWUlkbHc9EiRhMmQ3MmY2NC0yZDhlLTQ3MGYtODIzMS02N2I1NDJjODYxYmUYACAAKAAwqN7F2I4yONXgxdiOMkDV4MXYjjJKHE1ReWtvNDV1S0dVS3p2QThlK0lMT1F2bktEMD1aHyIdtFEzSVdyeTBDNFZEbWFYQWY3RTlIa3VtOVZBYz1ls/CoBhKoAQg7EqMBChxwOHdEc2JiZnRiRFFBWmdqRW1SdzA0bVAzSk09EiRjYmJmZWM2OS1mOGVhLTQ4MzktYjBkZC1iYTBlYzI2OGZiOTEYACAAKAAw8abM7+4xOPGpzO/uMUDxqczv7jFKHEhNR2pxQ0xFMUpQOTdDbkVjMVJaRE1keTVxQT1aHyId925mbnFZcG5udjlseGJlMW50Z2FvWGRYcVRIdz1lwKUouhKnAQhqEqIBChxKY1JLSlRYMzVUMEpFQWYycjUyK1BucTBjNVE9EiRmN2IwMDg1MS1hZWM1LTQ4MjYtOTEwZi05ZjEzMTJhOThlNjQYACAAKAAwkqOJ144yOKWmideOMkClponXjjJKHCt3Zk5MYmZIT0VHQlE0RFVKZXc3QmswdEh1bz1aHiIcMWxXMXQzSlBwSTJLYldtQ052Q2htS294R2ZJPWUAAAAAEqgBCF0SowEKHG5sRGk0ampaZmtDb29kYWVVNDhpbFBjdFFTbz0SJDA5YjAzOWMwLTQ4MjYtNGZiZi05ZGVkLWE5MzViOTNmYjYzZhgAIAAoADCIgY+AjjI4iZbD/40yQImWw/+NMkocelRGbU51MDlPQ0FQaUZ4RW5BcFhxbmpaTWprPVofIh3+ZEJNT05MLzhwZDZoY3VmRjhMS0FBSlRKOXI0PWUAAAAAEqoBCI4BEqQBChxGUmpjMkxGcEVSTm1hSGIwM2pDQ3l5TVcySG89EiQwM2FhMTNhZS0wN2JkLTQ2MzUtYjA3NC02OTA2M2EwZTA5MmIYACAAKAAwosbOzpUyOLTIzs6VMkC0yM7OlTJKHHczU1NKdzZDdWhIWENiK3MvU3pDbzVpMm8zTT1aICIe//drSEk2eU0wTzk0WjNjV3Y0MDFGRjhpYm45S0k9ZTj5OTMSqAEIZxKjAQocOFpvRXRGdEdmSmdEd2RKVHZReHRaSHE3YkRjPRIkMjlkMDBhNDUtY2QzNy00ODYwLWJkMmYtMjgyZjg5ZDQ5OGJjGAAgACgAMIX0i9eOMjiH3aiAjjJAh92ogI4yShxpT2hxeDdyWXFhOUVoNTZMeXRSUS9iTXRFQlE9Wh8iHe5hMDRZSGdOODRVNHNUM1R1S1pLZEN3cmxycVk9ZSNOFKESqgEIiwESpAEKHGY2L1FHOHBMdTFBQmszeTd3Kzc2ZW1VbWl0TT0SJDY0YzVlNzJjLTY2NTItNDMzNi1hNTljLTI2Mjk1NTk4YjgxNBgAIAAoADC7gt7HkzI4toXex5MyQLaF3seTMkocRTBGKzJEMnhLYVczTVlRZWpZNnFBYnk5OGtNPVogIh7/ujhnWUNNOU9HcWNUb2c2ZXltYVVyRzIzZ0x3QT1lOPk5MxKnAQhuEqIBChxVcXJMK1ZHVUExUGNYWXhzaHpPcUtrb1Z6TkE9EiQ1ZTRjZTM1MC1iYmUyLTRhNjEtOGQyYi0zYmQ0ZDNiZmNmZjYYACAAKAAwk6OJ144yOMzeh9eOMkDM3ofXjjJKHFd5Q0hFTkMxeEFzZDNoVUtkMzQwMTEzYUdJcz1aHiIcT2RJR2U1U3ZjUTlEOTVVL2llcWxGMWNWY2FZPWUAAAAAEqkBCJMBEqMBChxhZFRKZnZnOU5EcndsYkJiTEd2bkdHY0JwNGM9EiQ2ZDBkMzdmMC0xMGYyLTQ3YTEtYTdmZS01ZjU5ZmJjN2IxZWIYACAAKAAw5dP1xJQyOP7W9cSUMkD+1vXElDJKHFVHU1BjVTJWQlhVU1h4VTRMZlcyakZZcVl6UT1aHyIdpzhuZjlGcFo4SnNtVjRtdUw3REJURGJmSzQ1dz1lYHAgAhKoAQh8EqMBChxDNnJub1pOWXNEMnRpVjRtL3hXTkpGZFhBWEk9EiQ2ZmE1M2Q2Yy1hZTQ5LTQyMTAtOTg0ZC0xOTNmM2NhZmYyMjEYACAAKAAwuN+OmIgyOMnijpiIMkDJ4o6YiDJKHGROeE5kdU10c0RiQjBwVGl2ZysrNThuZnVncz1aHyId2lF6QnRjN3c5bGFOMG9mRFVLbXAzYklGZEJIZz1lOPk5MxKnAQhbEqIBChx4WnpGUmp3ZTA5VnVPbGhkeDdkRFZNZzJZczQ9EiQzM2VmMjFjYS03ZTNmLTRjODEtOWFhZC1hNzhmODE1ZTk2ZGIYACAAKAAw+M6SgI4yOJ7aheGLMkCe2oXhizJKHFFGeXFsNWplUFVaMUtBSHZIaUptWVE3TCt6TT1aHiIcdFo1YWdkM1E4S01BbG1hMFZrNTlVNnZORHFJPWX9IFRuEqcBCFkSogEKHDNiVGtZb2Jna3RKMDgyTFBQb3JHenNMTzVpOD0SJGQxYTA0MzQ0LTYxMzktNGVmYy1iOTVhLWQ1NWExYmY2NWJhNRgAIAAoADDU6YKygTI4ttOCsoEyQLbTgrKBMkocOU42SnpRWVlDeDhRenhqSVZtZUVGZU1uZ3pnPVoeIhxDZUx0ZHVCSE5PeE9XcC9PVHg4ekZUY1dia0E9ZXP3LOsSpwEINRKiAQocMnQrMW5qS1g1alpMWE1uQ0VaUVcwSzRraFprPRIkM2MyN2Q3NDgtYzE1OS00OTNhLWJmNGQtNzQ5Y2FhZjAzMWY2GAAgACgAMJ+EiebuMTi6h4nm7jFAuoeJ5u4xShxNeCtnSkVVQjc0RUtGZllIR1FOdmJIZ3JLUUE9Wh4iHGwyYURwcFE2VUJ3Y1Eyb2g4bDlKdkVmNEoyMD1ldb41UhKoAQhVEqMBChxlNDJLeE4weXRSZE15aDZlRTYram1TRUc5R0E9EiRjYmNiYmRhNy04NGU0LTRhZDgtYjg4OC0yMmU3NGNhNWU4Y2QYACAAKAAw9tOR8v0xOJvXkfL9MUCb15Hy/TFKHDd4bW1GTXhHV1pLMWxjTExkN0RGM282K3hGWT1aHyId62xlS1Eyd3ZSWDdKZ1pTMGIyVi9LNkFtQlBURT1lAAAAABKpAQgoEqQBChxDMEF2RnFSdDBBcjVIRmpWSFNVMVRMTmxxYXM9EiRhNDVmZWY5Yi0zODdlLTQwZWUtYmMwMy04ZWJkNDljZmI4ZjUYACAAKAAwjbnmxoAyOIya5saAMkCMmubGgDJKHDRFWEdJb2VNQkpFZ0tDbGVSQm1Xa2tzQW56QT1aICIe//5XdmRvL3JiUjIxOFcyNEpJa3NNQWR3L2tYRDA9ZTj5OTMSqgEIeBKlAQoccjY0QWFHZEJEaFlwSnpYNXZMbGJ0WW9xRTVNPRIkYjJiODQzMzQtNTQyZi00MGZkLWFiMjgtNjQ4OGYyNjZiNWJhGAAgACgAMLK4jZiIMjjeu42YiDJA3ruNmIgyShxsZld0NGMycVpUWjhKZDN1eFNKK0Z5L0RMcnM9WiEiH///+1AyNEVpais4Mmwrb2hoZlNnT2VwSzdKYkhkcz1lAAAAABKnAQg3EqIBChw4bkN5THpkOXJiTTdZTE44MWpKazAxQW1CdW89EiQxMDFhZmRmMC03ZDlmLTRhOGEtYWE1Ny1hYmFiNDM0NGY2ODYYACAAKAAw7qXQvewxOJ+PmJzsMUCfj5ic7DFKHENEdkcwR290S0VZS3lSd2E4Vk52RFZ3b2ZIdz1aHiIcdG5TTlVkdGhHalBEUGYveDRtb3cvUGhIbitNPWVYBsTDEqgBCFASowEKHERCWms3OVVGd3FPN3FYYTFCdXc2NC9sekRLTT0SJGQ4ZDc5MGQ4LWNjOTgtNDVkNS05ZWU0LTYyYzU4ODkwOWIwORgAIAAoADCunJD/hTI4yc+P/4UyQMnPj/+FMkocYlFJS0RvQ0ZHSTRvMlh5VGZueUgvdkZYVjRzPVofIh3vcExob0tqRE9FWEloMnpjMlVZVlFyNHNwYnhBPWU4+TkzEqkBCIMBEqMBChxKSmNKdkFJOFNrMmZkdUk5Z0d4S2ZXbmZqdnc9EiQ1OTA3NmQ4NC00NTExLTRiNjgtOGU3Ni1lMWY5NWFmNzQwMzAYACAAKAAwvsvY9YgyOJDO2PWIMkCQztj1iDJKHHV4U2V0TnVXVWJhWld0VTd3VDVmU3JjSzM4OD1aHyId6lJ4ZEtybUp3UlpDSGRvK3hFTm5EZ3V0bHJwZz1lwCv08BKnAQgHEqIBChxCbnF2WVNLdCtCVUV0QmIwNEF6Q0RhVWRpcDQ9EiRmZTZjMTg2YS1lNjRkLTRiYTMtYjBkNi0yNDAwNzQ2OTg5YTkYACAAKAAwu42pvpUyOLeWvuOSMkC3lr7jkjJKHER4NnB5SzJMdk5sZXk3dFJ3WHVJL1pUN0ZYdz1aHiIcNUgwdFo2WS9nUjBRbHlCYUd0RXB0bmRQSHJFPWV1vjVSEqgBCE4SowEKHG5xS3AwNmFYV1dQNExZU09tVzFzL2NINjZVQT0SJDRiNDhiMDJkLTAxZTEtNDUyMC04YzAyLTgxOTJhMmE1MTYzORgAIAAoADDc/MTg8TE4nIPF4PExQJyDxeDxMUocSklqNzVwYk1aV2tMbEIrd2E1UFloQjRjM0tZPVofIh29dm44YlQvVzZkdUFDN3RrdHRKYmVxVmNidzg4PWU4+TkzEqgBCEoSowEKHFdVMTVMdVRXMUZZbDdHNlVDRzNtOG5Mb0VEbz0SJDc2ZTJhMzI4LTZmYjUtNDdiNy1hNzVmLWJjZjYzMzY2Zjg1ZhgAIAAoADDLx8CQ5zE49MrAkOcxQPTKwJDnMUocWW85NzY3ZUJqSDg0WUM1alVoSUFITzIyYUZRPVofIh3edWwxdUFmNUIyUXVITVZ4a3BJdy9FYmtPL1dZPWUGclKoEqgBCE8SowEKHEJ2NjBoWDFseHJsRjl5Ni95dlBVTHdjSE5QZz0SJDEzNTQ4ZjliLWIwM2MtNDAxOS1hZmY4LTU3Njc2ZTQ3OTk3OBgAIAAoADCpyr2s8zE45bS9rPMxQOW0vazzMUocRGVFUUZQTFpqem83OVhoRnRGcmxIbTB5NlRnPVofIh3eVndVQUZ2MUduUWdsTTRNTkdXVjZJU21vSlBVPWXApSi6EqkBCIoBEqMBChw2Y2JJbFIzUHdvbTd5M01RbFM4clJRWTFwakk9EiRkZjhmYmZjOS03YmE4LTRhMmYtYjJhMy00OGM4MjY3ZmUyZDkYACAAKAAwlIarx5MyOObwqseTMkDm8KrHkzJKHEpkVzVJYkpzS3RGdUpqaGd4YjJvYVBmTjdxND1aHyId/3UzcDM1UGV5elZyQ2tDOWlzSVRidHJJaXFlWT1lOPk5MxKqAQhUEqUBChx3Sjg1MHloRkJFaDM4UXFCRjZjNitZQTZxb3c9EiQ0YWQxOTliZC0zNDc4LTRjYjctYjFjYy1lNzRhYjRkYmMwMTEYACAAKAAw74WP8v0xOMfG1qr1MUDHxtaq9TFKHHQ4UUZMNUdOL3hRMlNsazBRMUpHbTYySFk4ND1aISIf///PSzh6TUliaU5ZaGIyUTdNOFh2TmhvUDQvZk1zPWUAAAAAEqcBCEgSogEKHFB5K0lLNGJLTnpDZ0NQN1pvSkdHb3RFUmFIMD0SJGZkZjUyNzczLTU0NjMtNDkyOS04ZWMwLWRhMjZjZjBjZWQ2ZRgAIAAoADDNx8CQ5zE4s8vAkOcxQLPLwJDnMUocRFU0L3VLbVNMOFlyRlVwd2dHSStIcHpZcHg4PVoeIhx4R0hTdVFuMlRmMzB5cFhtOFQ1bWYzL2JNKzQ9ZbevxngSqAEIQhKjAQocczJXMmE4dzFqcERobndWVHZIVUVPbmNOby9nPRIkNjY0NDA0ZjctMDU2My00MTMwLWI2NzMtY2U3Mjc3NDRjZTZhGAAgACgAMN2Vue3uMTjXjJyH6DFA14ych+gxShw5bUVQTGlTQjkyQlZJSVFRN1QwMUNwUEtlbGc9Wh8iHbw4cVlTK29Yc0FKMUVtZVdQZStsVXNzdCtYeE09ZQAAAAASqAEIHBKjAQocbW1tMHV0NUtqaDdmRVNWZUg0RXhXelRPLzRvPRIkMTBkNzZiOTItYTA3Ny00NzBhLWI4M2EtMzZkNGE5ZWMyZGEzGAAgACgAMJKwu+/0MTiu0JiM8DFArtCYjPAxShx6ZFJBN2srdkdwMkpWWkVNR2JSaS9EZUxnQWM9Wh8iHf81VE5HMDlBL3ZYL3BOeVAzY0FhdGVHK2F5bXc9ZVTB9icSqAEIRxKjAQocTUtERHhlekM1ekZkMUFhL1V5U1MzdnZpVkh3PRIkMTk4OTVhNmEtNmVjZi00OGFmLTg5ZDctMjIzNjdiN2ZmYjAxGAAgACgAMLatue3uMTiEwcCQ5zFAhMHAkOcxShxjc29hYUI3eTM4SVA1bzVHS0FmZHJUWWYxU1U9Wh8iHe9vVGkrTXEydXUrclBVOVpMOHVaU0dKRnlTVkE9ZQAAAAASpwEIaxKiAQocSDlGM0ZzSkJweG0xOWU2QTRZQjMzeVJEQ2dVPRIkYjBiY2ZjOGYtZDRiYS00NjU5LWI5MjgtNWE2MDdjYTgyMTA4GAAgACgAMLvwyeaTMjjJyJvYjjJAycib2I4yShx5WThjeGtiQmNGd3d4MWk1Z0FxLzVCd0Z2azQ9Wh4iHDBaNjRzL2VEdlh0SnNrTXpCRFhSV1JsbVZ1dz1l4w7kYxKpAQiBARKjAQocaGptMmY4elpMUWZvNjBBKzVyTHFZWUlwLzlvPRIkYTYzYmI5ZDMtM2ZjZC00ZjA4LWE1MzctNWZmNDY2YWU1N2NmGAAgACgAMLLWsfOIMjjE2LHziDJAxNix84gyShxXZ2ZrdXlOcGtySlVDY2hrYzdnN1JpZzBnUEE9Wh8iHas0Zm9FTjc4VlZUaE44NldQbFJESWJrWFVuK2s9ZTj5OTMSqQEIQRKkAQocNlRBTjJjUk9pbEtBaCtYcU9WQTU3eUg4US9zPRIkNWE5YjljYjMtZjM0OS00NDQ0LWI2M2YtMmJmODRmYTA3NmZlGAAgACgAMOWI25uHMjjP09qbhzJAz9Pam4cyShxSQnRjSFpKMEtLbEk0UmNWUTB5TmtrREVFQ0E9WiAiHv+rTkxpaTB3YXJOdG03OG1NMXNEM1pzRytZUFFrPWU4+TkzEqgBCA4SowEKHDJuZzI5Mk94czYrd1NLVmU0M015QVpNdVZHZz0SJGY3YWY3NjhhLTEwMWMtNDA0Zi1iMmY3LTczMmRhYjBkY2RjNRgAIAAoADDUqMPk3DE4lpvD5NwxQJabw+TcMUocK3RmWU83MVRRWStBYVljaS9BcWdQQjZrWEFRPVofIh2wTVcvK2RWcE16WXhPbmZobGYyMXpvdm5vVjhVPWVEPgnyEqgBCF4SowEKHHdaWW9IM09uMzlWQVBmbjRxNW5KN1IyZU1nWT0SJGVkYjllNTliLThlZTgtNDc2Yy05NzNjLTBkY2Q4M2VhYTBiZBgAIAAoADCi14rXjjI45tmK144yQObZiteOMkocdzRzVkxxZTBLcXFtRHZ5NUdPQy83L2dXTU80PVofIh36NTdvakF1TzdXZE9OZDBwTXFUSWFEMUQ0S1g0PWUAAAAAEqcBCE0SogEKHHQ3RUJKemI5dXJ3MkdNZUIwUUsvQmpoQUlxaz0SJDNkZDBjMTg3LTFhMzctNDQ0MS1hNGUzLWFhMGE0Mjc4N2YwMhgAIAAoADDW7ezb8TE4mvHs2/ExQJrx7NvxMUocQ1BBTWpBeDBXVlArRWxwSTZmSEtCekIrYnFZPVoeIhx6UjRBbWdtMm5JQlVNR1lEOG9pK2tlNElZL2s9ZTj5OTMSqAEIExKjAQocMnU3dzFCVXlWMXY3aDJBTUU3bFlDRHl3N3E0PRIkZDQxNjZkNjgtNjMyNS00MDA2LTk0YjYtZDc3MTk1ZjJlOGQxGAAgACgAMKGVgvWEMjjT3ZOA4DFA092TgOAxShxNK2xEUWpFS1hZb0VZbzJxcHBWRWhaRjkxak09Wh8iHeJObkV1Qm9wd3lnQ090aFVwTW9nWEVhVVhCdG89ZbevxngSqgEIMRKlAQocM0VYMFo5SWhEWTUxZHFNZjhyekhWaW4vVGZvPRIkNGUzNzI5YTEtYTQ3Ny00YThmLWFhYTEtNmIyZmU3ODgyOWUyGAAgACgAMIPWtIKQMjiVmrSCkDJAlZq0gpAyShxqTFZwOXZjbVJpUGxiRlNTN3pBbFd0aXZzUDg9WiEiH////1FyOURSclRKUkZheS93bW12eEZoZmVjcWZ1az1lOPk5MxKoAQg+EqMBChxFOEJHdjZ5aDY5b3RLNkNram41MXQ0RVI5b2M9EiRhMzEyZWQyZC0xNDYxLTQyNzUtYWFhNy1jM2QzMmViMTQwMTAYACAAKAAwppLZgPwxOL382ID8MUC9/NiA/DFKHGdJY05DcG9uekI0SGZlK2FtTDdiN3luVVBVMD1aHyId/mhTb3BXNGtSbFc3a1czZ09EVENtM0lnbGJmZz1lOiDBJxKoAQg5EqMBChxnaUFNdG9sUSsySE91dmJPRFZvVHlHMStUc2c9EiRlMjU5MDBjMy1mNmNmLTRhZTEtOGI2YS1kMDgwNWRkNjk4MTYYACAAKAAw+InhvewxOJKN4b3sMUCSjeG97DFKHHF0ckcvTzVORmkxZGc1SVJEN0hDUksyZDZadz1aHyId3URmUERzS2pnOFVLOVlOTFl4ODUxbExQbWZGST1lWAbEwxKoAQg4EqMBChxHN1hPd1U5YklmRVVDNXNjajQyWVZzTVJlU2c9EiQ2NWE4YjFkOC02MzQ0LTRiZjAtOGMxMC03OTUzY2FkYTFhMGYYACAAKAAwg9LQvewxOM3V0L3sMUDN1dC97DFKHGFiT3lpMzJXYkZTVWU1VXBPQmNHNVFjL2xsVT1aHyIdum9Rdk9zeE1taFFxb2N0UE9aYjlNMm8zdGRVRT1lWAbEwxKnAQg2EqIBChxvWHZUc3Z3b1BzSlk4MzZJTzQzSll6QktXVHc9EiQ1ZTU1Y2U0Yy05MDk4LTQ4MjQtODdkNC1kZDU4N2NjZGYyNjAYACAAKAAw+/y47e4xOPThz73sMUD04c+97DFKHDNTeDNWaEpSbW9QNkRwaUhnYVJ1bXpSdHlKVT1aHiIceEtxN3MzUVR3dXNqREYxZmFDTkxxQUgxazFJPWUAAAAAEqcBCGMSogEKHFk5d2NUanQvcFFOamlVTmRGWXlqeUswczdYWT0SJDQzZGUxNzk4LWFhZTctNGY2Ny04NmY2LWQ2MmM1ZDRhZjBmNRgAIAAoADCD9IvXjjI4vJbD/40yQLyWw/+NMkoccG0zQ2RrcEU5b1FKN3BRZUlxejdsRWtsVXhVPVoeIhxsdjR6aE1sMmsrT3ZKdGp2SzJVQ3REWmh6S0U9ZTj5OTMSqAEICxKjAQocRU13QjdCZU1hT0VFUC84QW8rYkxJdkhZUmFFPRIkNWFhODAxYWItYzlkYi00Yjc5LWFjYzEtMGQyM2EzMjMzNWViGAAgACgAMMjC1Pz7MTj2qJim6TFA9qiYpukxShxXd2tCUCtvRW9wVXcxbXlqSkd2SHJ6UUVtek09Wh8iHXU2THkwSFpBTVVDc0JHTitreWthS0tJSC9ZNU09ZZs9hbYSqAEIIhKjAQocbURzaUNYa283ODNxSHU0Z3o3citHcVMrdzZRPRIkODlmNmFhNmYtZjkwOC00N2FkLThjZjgtMGQ5Njk0NzRiMTZjGAAgACgAMPra/cv1MTjH3v3L9TFAx979y/UxShxUOERtcHV0Q284QmxJUGVpcURmSnJYb3ZpQ289Wh8iHf5VVEo0VUM3VzZOcjRlcy9WcTNweDhOSnVYczQ9ZTj5OTMSqQEIJRKkAQocclFrdFhVRGowcnZOWHlxNW45eERhdFFkK29rPRIkYzIwZDY1MjgtZDc0Mi00ODYzLWI1M2MtYjQwNmY2ZTRkZWEzGAAgACgAMN7TmvP7MTjovZrz+zFA6L2a8/sxShxGMFc5NEhGeE0rbmJRTUdQZ0RvR0gwVkNQejQ9WiAiHv/ua2p3S2pSZ1VrOHd2QmtpaXl1b2M5ZVVKcmE0PWU4+TkzEqoBCC4SpQEKHEVidGI4SXNvY1dyUGZPVWpJRy9NQTZHZndocz0SJDZkZjEwNDI5LWQxZTUtNDdmNS05OTY3LWNlZTU0ZjQxNzVmYRgAIAAoADCKn5XBiTI46YKVwYkyQOmClcGJMkocTnFYY1BqVTd5ZFVEZ0EzRmxUZm5mTENuRm4wPVohIh////tuVmpmUW52cThXUFliMU9xK0pjWnBsTDc0TEE9ZXZaC7ESpwEIfxKiAQocNGtzaDVwVEJwdTRBeklaSW53d1lTcWo0dDNVPRIkMzk3MGQxNjYtNjI1Yi00NjVkLWI5ZGEtMjgyODllZmIxZjgxGAAgACgAMNfCmdSIMjiDppnUiDJAg6aZ1IgyShxDbkNXM0FCZDZPV0FoYzB6ZDdUL1VQWCtEZnM9Wh4iHDU3Tmd4UUExblMxR2o0eXJNcGpwYThIZzJlRT1lboQnehKoAQhAEqMBChxQUVI4VWxNTk9ZaERLamc5L1B3bW10TkorTVE9EiQ0NWNhNjM3Zi1lYWU1LTQ4NWUtYmUzMC1iY2M3ZWNjYjY4NDYYACAAKAAw48W624UyOIzzqZr+MUCM86ma/jFKHFlSSjlMTXo5SW5NUVVCT2lETWhNZ2dJY1JwND1aHyId/1ZpZjAvRjhFUjlTWm4yWXVuSmRuMk5vUVltdz1lHVeS/RKqAQgqEqUBChxieXV0SXVXTHIvWVVLODVubXA0SmMxRUQvS1k9EiQ0YTQ1MDMzYi03OGEyLTRmZDEtYjJhNy1jZjVkOWY1NmNjMTkYACAAKAAw2+eW/4YyOMHrlv+GMkDB65b/hjJKHHg2Q3dGY3FFR1Z4RldVdTZXdWpmYmxEMnZDZz1aISIf//+7aUkxcWQ4bjJhY2EyeHQ3WC9pdndyLzhpVWZJPWU4+TkzEqgBCEsSowEKHHJyOVk4TGtuWmN1K0t1SmtuWjc2VmlqUkdXTT0SJDhkYzU3YTVhLWI3MzEtNGI1MS04MzNkLTdhOTcyMjgwYTY2NhgAIAAoADDssuzb8TE49rvs2/ExQPa77NvxMUocSmJ4L1hvYUlmalU5QmR4K0d2ZGMraE4zYTJrPVofIh33YjNHVnh0MExpazdranlucVZmaTJTc1hEUTh3PWUAAAAAEqcBCAoSogEKHHdSa29SNWNnVC82dkVMNGRDdlY5UVhnSFVVRT0SJDVkN2U0NGYzLTZmZGMtNGUzMy04ZjcwLTgxNjJiMjA1MDdlYhgAIAAoADCA0cCQ5zE43MDAkOcxQNzAwJDnMUocZDBacHVpZmFNSmxTa0NpWS9RbytKeWJIQ25FPVoeIhxwMy9KYU5ZbmJLYUFNMytlSWY3cmViNndjREU9ZbxmcpsSqAEIFBKjAQocQlFXUmJ6OVNGYlVCY01Yd2NPNDZFTXZpT0VBPRIkOTNmZjhiMzQtZDI5MS00ZWMyLThhMGEtYjkzNmVhOTkxZjE0GAAgACgAMJDKyLX5MTjuudzk3DFA7rnc5NwxShxIT0ZEVjgva0ZuWWRnZGs2eEhMSlZPNWppaFE9Wh8iHfZ6RjBNc3JNM1MzRnBUY0pCaG1GQWxUR3V5WTg9ZZRaQxMSqgEILBKlAQocQ0lIeUw2RUp2WVE4VnFTeHhhWmxRZjl0WnZVPRIkOGVjYTRkYjQtYzljNi00ODI2LWJlMGMtZWU5YTJhOTZiMmQ1GAAgACgAMKf13JWIMjiU+NyViDJAlPjclYgyShxqSjNuMUZva1BiazhwdklxbWxZeng3Umc5ODg9WiEiH///7k9jQnI0MnVPWnRXOS91Y1hvYzljMzZPL011UT1lOPk5MxKoAQgMEqMBChxPMW1nNWJFeXpTSTBBWTM5a0J3eDErZ1pRcFk9EiRiMDVjNjlhNy02ZjFiLTQxN2QtOGE2MS01MzA3NGZiNmJlMTUYACAAKAAwqe+OiIoyOJKi4tOIMkCSouLTiDJKHERyZzFGam9hWHlwanhTQVJBQmg0Ulk2eVJvUT1aHyIdeERxWHVtdlBtR3JqS1FCSy92aHRldkd4WEsybz1lwCv08BKqAQgrEqUBChx4ZmlsMkJtT2VxdEtHS2NhNjg2QXFoRlhoR2M9EiQyNTI4NjQzMS04MWM1LTQ5MGEtOWY0Yi0wOTMxMjUwYzljODIYACAAKAAw9ZSa/4YyOIiYmv+GMkCImJr/hjJKHGVmK0JFUXR4U2dEbVlDQ1h4S1VtWEoxNjY2cz1aISIf///dd2dYcGhJSVYzV0kvU3FTNkNmREdXRHFUZkRjPWU4+TkzEqoBCI0BEqQBChx1b3FRczFJUjQ0VVQvcWRIbHNVb3JkbnF0WXc9EiRkMTQwOTA3YS1iMmE0LTRlNDItYWZiMS01ZTU5MWFiYjI0MTUYACAAKAAwy+ufm5QyOOKWn5uUMkDilp+blDJKHDAzb3V5WXZ3aVBRUXhBOU5jYmdORjIwdU4ybz1aICIe/+50T1dLM29ubGhFZXExRXl3TlBDQVRRQmtCRDA9ZTj5OTMSqAEIRBKjAQocMnNRVzlPUnkvV2R2VGNqemRVZzF1ZW5scUE4PRIkYmQ5NmM0NzktMGJmMC00MGNkLWE0YjEtN2UzZGQ0YzU1MjlkGAAgACgAMPOinIfoMTjbppyH6DFA26ach+gxShxMelhiRlUxY3U4cUJTcG9sNi9yUENIVjBDUlU9Wh8iHatQNXBBcUV5MzZKU3RZcUVOdFFrT0tiampvZk09ZTj5OTMSqQEIJBKkAQocUm91YVhXWi9qWnBoajZKK1VlQzl1RnJkblhrPRIkNjMzNjM4YjMtMjdkNy00OWU0LWFiMDgtMjdjZTlmMjdkNDdkGAAgACgAMNig2+T5MTjkptvk+TFA5Kbb5PkxShxsQ2UyK3d2aFZ2S2R5ZElNVm5EU25DL3BlK0k9WiAiHv/dK0pmU3BtK01ncmE3S1hrY0FHaWpMc0twcEJ3PWU4+TkzEqgBCBESowEKHC9WZkMzUlNRcXkxVWk4T3RDSGlOdWVQV1Z3az0SJDhmMmE4NGFlLTgzNDUtNDg0ZC04YWRkLWY5ZDc3ZjU3N2UyZBgAIAAoADCcrK3ngzI4sMu85NwxQLDLvOTcMUocbTVrV1loZi96cXRXaVhwNVA3cEpIVHBxSUVnPVofIh3OYXNFSFQ1YUpZVGhJTEdrVXNKMUMrdXR5dys4PWXACu1YEqgBCBYSowEKHEJrYVVjaG9saVVIWmxUSFk3bitLM3JVZzR5TT0SJDE2ZmRiZDIzLWE4MTktNGRjZS04ZjQ5LTJiMDM3Yzc0MWExOBgAIAAoADCykrLl3DE43YSy5dwxQN2EsuXcMUocenpVRUlpK1M3NlFuRE96MXJuSHpVclZBSitBPVofIh39K1g1ZEpqMlhjU0pOUDlJWXNzMUtKRlZmQ25zPWVdfMeaEqkBCCkSpAEKHGRJeTJKbkdEMTVJdUNieGJaVytQMXdTUjl3VT0SJDA5MjAzNGM4LWFmNzktNDgzNC1iMjZkLTY3NmZiMjUyMTE0OBgAIAAoADDY1MnagzI4677J2oMyQOu+ydqDMkocSVdESUdMdUdSN0s2YzNabmV5TFQveWV5T2lZPVogIh7//3ZudUduZm0yYWFHQnhRQmFPRDhCdzEvYkZlQT1lvGZymxKpAQiHARKjAQoceG1iSHpPNWcrSEVZRTcxanRNbXdNaVFybVVrPRIkN2UzYTdmNjMtNzE4Yi00MGExLTg5NmEtMGQ3MmFjOTExZmFlGAAgACgAMN7qnfaIMjje7p32iDJA3u6d9ogyShw2alA0eG5USWlmb3ZSV2VubWIyVUowSjBodEU9Wh8iHf5iY2xJQjlSbGVoSUZReGdvU1NhKzhmQ2RLbms9Zc9NdzASqAEIIxKjAQocYVNLK0poczhUUEZPeXdBbGo3cXJxNTRTZGNzPRIkMTkyYWEyZjUtMmVlYy00MjJiLTgxNjMtODJlNGQ1OTg5OGNhGAAgACgAMPTv9eb3MTj38/Xm9zFA9/P15vcxShxGd1o5WXh4TVE2U1BkdlZrY2k0VHdpcDhNUXc9Wh8iHf90dDR2ZHpNcW1OaGlJcWZ1N1FRZWhoOWJsSGc9ZTj5OTMSqAEIIRKjAQocSW9sQlVQN3ZBWkZPSE1EUFZRcXNkM01zMXZnPRIkMzQ4ODU5ZDgtMzdiOC00ZWVlLTljNGItYmYyMzI3MDQxMjcyGAAgACgAMOPa+Mv1MTjy3/jL9TFA8t/4y/UxShwxRFlJRFJsb0lMc29NcTU5QTRPdE44bUI0bVk9Wh8iHf1qVnlpclFxYnAzVmZ6cGh5bWUzcFlTUVVkK2M9ZTj5OTMSqAEIaBKjAQoca3B2VXlPNVJRR1RaODZybTFPQVozYy9vL3k4PRIkOGE3OTlmYjctY2M4ZS00ZWI3LTgwMWUtYjBmZDYwMzBlYjQwGAAgACgAMNPt6qiOMjiW7KbgizJAluym4IsyShxUYzFKanZjdmlKei9PN28rQXlsQWw5Q0NkK2M9Wh8iHf9HTndqTVlZUUowUGNFOCtuVmk1U3FPSzA2YkE9ZQ8s0RISqAEIgAESogEKHDNtZXBIYjV4UERDT0JaRDZqU1J3RFF2aTVqaz0SJDYyMmFjNDQxLTZkODUtNDBkNS04NmEzLWU2NTlmMmJjNDkzZBgAIAAoADDWwpnUiDI4+sSZ1IgyQPrEmdSIMkocUWVxRW9vL2cxUFJRWWZaN1NXNXdTdDlaNkxvPVoeIhxWV01SQWYrbUw4U3p6RzEwTHBMRmpqalo4Wkk9ZVsMTu4SqwEIMhKmAQocTy8wYjltMHBEdkVlWXhoV0I2bGYvcjhxMHFrPRIkZGE4OWVjNzMtYzA1My00MzA5LWI3NTktOTI3YzI1NzE2Y2JmGAAgACgAMKuchPKRMji/iITykTJAv4iE8pEyShxrZkZ6aklkMUY1eDdoMHBHbnVadzhsZ0ZFWjg9WiIiIP///6hPeUNvdWxIdm5idVhiLzA3d0d1RHIwc1VmTXc9ZQlEjAISqgEIdxKlAQocVVo4bGNNaFdyOW9PWmd4V3oyTVlpcE9SNkdRPRIkOGY4NzNmNDEtMzMwZC00N2ZiLTlhMTgtNTY2ZjBjNmE5YWU3GAAgACgAMNH705KUMjiKlZH18zFAipWR9fMxShxyU2pBQURPbXEwSWlMNUtxMXdrRVU0cVFQMVU9WiEiH///93JEYm92a2hYcnlZSyt6WTNhUENyL0pZaWQ1TT1lWe80kBKnAQhxEqIBChxyYXp0cVZmMlhXTEJzdm1rVkhoSWQvQThsOGc9EiQwODNkMWIxZC05NjllLTQwZjItYjcwNy04MzRlZGQ0NTBhMmYYACAAKAAw7diI144yOKqD0taOMkCqg9LWjjJKHDVnbHp5dHFkRnJsSUZ6YTRuNTdraFlhbTZWST1aHiIcdWFPb0NWdkx1eHk1QnRXYStXay9pTGE5SE9rPWU4+TkzEqcBCFYSogEKHHIvTEVhUCs0emp5R2JvUWJ2MzN1RVZwZDVsTT0SJGYyYWQxNGY2LTkzODQtNDBlMy05MDM4LWY2YTBhNDE0ZjY2MBgAIAAoADDw5MKc/zE4yq+O8v0xQMqvjvL9MUocM211YzVCWnVQQ1ArODBocTJ1aTlrTDlMVXVjPVoeIhxDYjMrMjdqNTdQK1NMNHBETHRXK09ES0hzaFk9ZcOe9IwSqAEIHxKjAQoceGtEMUdMa21GVzZyNDhtR2FZcHVUN1lIMFBBPRIkODBhOTE0N2QtNzBmZS00MmFhLWEyZTItNjk1ZDUzMTdhZTkzGAAgACgAMPyKwZHvMTiFjsGR7zFAhY7Bke8xShxycERGZVQ4VE12dzJzN2NLenNaZzVCYllHeXc9Wh8iHe4yR01jMjB4aU9PM2RIc3hiNkVFdm1VeHhnZkU9ZTj5OTMSpwEIRhKiAQocaFNTN1Q2RkZGTU1POXE0MWtYNGFFQytVajM4PRIkODFmNzBkMjktMjY2ZC00NWFmLWIzZjYtMDA4OTU2ZTkxNzIyGAAgACgAMLbegq7nMTjvvoKu5zFA776CrucxShxDOGNGZW1IeXA3Ynd1d3BEejVGVVJBbFFMQVk9Wh4iHDB1cmtUamx1Ukg0MFVDWHVLeHE1MWlPZDVtST1lnLlssxKoAQhgEqMBChw5MFV1Q2NjU3JKRjFQSFYrUk5ZUTQ0aVZ1a009EiRhOTY1ZWJmYy1mNTViLTRmYTYtOGJhZC04NTQ1MjgzMDk1N2UYACAAKAAws7Dw2Y4yOPKy8NmOMkDysvDZjjJKHDh0WVBuMERleWhJelZsTkxkSVBwRDVIcW52ST1aHyIdtjNKK3E4MnhaSHk3K1BmR2NpL0RKZmRPeGc1WT1lOPk5MxKqAQgwEqUBChxWNjczMjRjSk0rQ3Zra2kwL3lFNkNtNW1UbEk9EiQwM2I5M2U2My1mMmEyLTQ2MzctOTI5ZS0xNDQxMTEwYmZjMjQYACAAKAAw8Jucl4wyOLyAnJeMMkC8gJyXjDJKHFBncmQ5WERxcFJBZUZUdm1LT0t4a3ZJOUJuaz1aISIf///+c2hXS2hwN3Y2NVVzSVQ1WWVmUW9QRk5RamJvPWU4+TkzEqgBCBgSowEKHGViRHZHMXNobFdmdkhQQ1lmdGx2cjFOcHlwVT0SJDRlYzFlY2FkLTY5MWMtNDVhYS05NjEzLTkyMzM5ZGQxNTI3YhgAIAAoADDh4sXr3DE4udet69wxQLnXrevcMUocRXBEb2F4R216ZEVvbHlOMlhRcUpwTDZYaW1RPVofIh3+a2tNU0RZQW42TWx3K3hKc2IvNy9DTzQvWXBrPWX6+cprEqgBCGUSowEKHDRsM1N5KzlRSmxYeEpieFF4ajB3dEFndGVnbz0SJDE4MjgzNTU0LWM1ZWYtNGI2OS04ZmNkLTc3ZGI3ZjI3MjQzNxgAIAAoADCE9IvXjjI43dmFgI4yQN3ZhYCOMkocY0E1ZU4zWG5CWk9IZDlnNjYrcmJ3RC9UZW80PVofIh26Slk2ZVNNaFFEcGpza1ZKazRJZEdvbXRVRDVJPWU4+TkzEqoBCC8SpQEKHFgwY2x4RlhDa05IQi90RkpZU09OSmhJSEFrcz0SJDUwZDc1NGU3LWZjY2YtNGY4Yy05NmUyLTE4YmRiMGMwM2I5NhgAIAAoADCizJueizI4486bnosyQOPOm56LMkocT0ZTZjhHZHoySmRPandoTWlKaC96Q2JtRWxnPVohIh////1KZ1JTK00wQzZXdjRTdnpvYnl1T0hsOUNmbm89ZTj5OTMSpwEIeRKiAQoccFRrdXowSFAvdkYrRDZjZ2dZbi81cFk5QTVFPRIkNjFhNWYwNGUtMzY1Ni00ZDJmLTgyMGEtM2JiYmE2NDM1M2NhGAAgACgAMP72jZiIMjj8+Y2YiDJA/PmNmIgyShxBcnhqRk1RK09XZ213UytVUiswaHlrRUU0ckk9Wh4iHDZaN0ZldG51ZjBaVFNYbjdtVXdtQjJSUHIzZz1lOPk5MxKoAQgdEqMBChxYK05VRFpvdHhCb0RtMmE3eGFZRHFQZEpXUVU9EiQyNjUxOTEwNS0zNjEwLTQ4ZGUtYWZiYy0zZjgwZjkzNDk5M2YYACAAKAAw+4C67e4xOIO+wJDnMUCDvsCQ5zFKHEJWellRSFc3K1JWMnI3aXpNUjlmZzBVUC9TQT1aHyId/zlkT25SQlZrbkVLSTZXQUlGN3ZyY0toRDh0az1lAAAAABKoAQgaEqMBChxidW94aEhIRStjR1pyeU5nYmIrbDZoVVkwbTQ9EiQyNzU3OWY2Yi01MTkzLTRjMTgtOGU4NS0wNDcyMDMyNWU0OTAYACAAKAAw+vD2mewxOLqJtevcMUC6ibXr3DFKHHNuUU1tTDJWNHUzUW9mNDkxbDZteVBvd05OYz1aHyId/zQ4bEpwNHIvcWplb0VwVFFkM280V0xENm9PZz1lRU1K0RKoAQg8EqMBChxJakVHdWEwdXJ5T3FkSHUxOHd6cy84R2NkS009EiRjMjNmNDM1Mi0yM2ZiLTQyOTYtOGU5Ni04ZGUwYzVhZDUyOTQYACAAKAAw/ZP4wfUxOOCfm5z1MUDgn5uc9TFKHFFEUGg0TUNIdHZuYzRoY1M3UHV2K0xPSmxpaz1aHyId+zFMb2orU2RoRVc2c2R1dkZUb05hVWVXUEdXOD1lyTXb1xKoAQgbEqMBChx1aGdoS2FPc0t5U1p1UlRKWmhmaTJKQlZmSnc9EiRkOWE5OGU3Yi0zMWY5LTRiODMtOGZhMy01M2I1OWY0MzAxYmIYACAAKAAw4OLF69wxONn8t+vcMUDZ/Lfr3DFKHHBVZmFyazRsdFpYNXJUZ0ZiOWZXd0pBd1hCcz1aHyId/zVLbjYrZ0FVVVpxWERWekh4amU3dEJNN2hjbz1l12X3yxKoAQh0EqMBChx1OXFRUkxmYWY5MDVxb2ZPVXRUbHhjcGZBdmM9EiQ2MWE2YjY5OC01YWM1LTRmODctYjg3OC01ZmZmZmJjYTBkNTEYACAAKAAwjNCZ5pMyOOXymOaTMkDl8pjmkzJKHEIrcVkvbS9RSjVWOWx0MTRyS3NLV1lidlp6Yz1aHyIduW5OSTdjdGRkWTB5ZlB1VnA1Y3VJQ3g5bnU5QT1lhOF4jhKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRlZTVhYzI0Yy1hYzYxLTViMDgtOGFhMi0xYTFmMjQwM2Y3OGQYACAAKAAw25Tw49wxOIKe8OPcMUCCnvDj3DFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqkBCIUBEqMBChxOa1FrTEh2Skp0VVl1azVrMHc0RzIwWHpRVmc9EiRkNTFiYjk0Ny0wNzE0LTQyZjItOTU1My1hNzE2OWQ4OGUyMjQYACAAKAAwhKSN9ogyOKymjfaIMkCspo32iDJKHER1d2Zjc3I1cUZHcnRFTG5WNFZXdm55NkMwVT1aHyId+kdrVkFHeWlBdzV2S0t5S2V2em9iQ1pvM0l0dz1lwCv08BKpAQiJARKjAQocR29BWmtSM21NSTgvNnhDTS9KYWtlZXp4VnlBPRIkMzljYzk2ZTktMGRiMi00NjEzLWE0MjctZGFmMDZkNWQxYWI4GAAgACgAMJn8rvyIMjjK6K78iDJAyuiu/IgyShxIMDZNV2hLcnpSU0ZEUjRTbGRqdGUvMnpzeEU9Wh8iHf90b1hjQUpFaUZBNVJBQjZjNkEyc25hYm92ejQ9ZcAr9PASpwEIcxKiAQocb2gzQ2RwTFlvZWdBY0MyL0N5dE82Y0Z5a1lnPRIkMWI1YmMyMmYtYWYyNS00YjYyLWEzOGItZjkxZjA2Nzk4NzgwGAAgACgAMLOWiteOMjjwmIrXjjJA8JiK144yShx4NmpiVDRMMWt3anMrbksrSENtNlpQQndaTjg9Wh4iHHJYd1p1RXJma3NnVUNsaldhRlV1UEFFVGxacz1lAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRlMmJhNGY5YS03OGQxLTVhYmQtYmNiNi1kNDdhZTgwOTg1MzAYACAAKAAw1ZTw49wxOKSd8OPcMUCknfDj3DFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqkBCCYSpAEKHDAyR2ZPRUhneE5GckZhWGVxRE5EYm9wdE12az0SJDliMjQ1NzU3LWQ4MzAtNGE2Yy1iMDUxLTA1N2RhZGZiN2IwMhgAIAAoADDr8pKa/jE47MWSmv4xQOzFkpr+MUocNFlTMTNZZllBeUl2V2EwWHVxZUlCeGNmRVYwPVogIh7/+3BnL2IxRlJvQ2RJT092VUhEdGlXRG5MV3VhWT1lOPk5MxKoAQgPEqMBChxpRmFzSGpEZ0wrZmtQVUlDdlVVOFpEVzF1dTQ9EiRhMTljZTlkOS1iNTYyLTRjZjUtYTk2MS01MWFmZGRlZGVhMTUYACAAKAAw3+LF69wxOLuduuvcMUC7nbrr3DFKHEk2dHJuTUJWSGt4OEFxd0owUURZazlpZ0JEND1aHyIdv3pJaDlsUC9uUCt4NHp1TVZacnVRYVRxcUZ6OD1lwKUouhKoAQiSARKiAQocTVlJMnd5OWxzQnpoTlhsYmFzb2ZGd1lTbHFFPRIkZGY3ZDU2OGItODVlOS00YjQ0LWI1YjktM2FmMmNhZjJkNzg0GAAgACgAMJj89MSUMjiV4vTElDJAleL0xJQyShx2WFJ2TFNnQ0V6LzY1YVpVRnFQY0FaVEZWV0k9Wh4iHE92MjUwMXI5SzgxS1dpYlFpNFphdzJvN2oxdz1lrAYk1hKoAQggEqMBChxDRTd1MWpQTm8rcWdwZkxxR1ErTzkrYUR2TzA9EiQ2MzgyYjJiYS01ZTVlLTRlZDQtOWY4Mi1iMzJlNzcxZWRkMGMYACAAKAAwz632qfMxOO+x9qnzMUDvsfap8zFKHEpoajR2TmEwK2JGaUY3dkJYN2ZhNUhpSXRNRT1aHyId93dheXQ3anN4TThFb0QxSC9LTWw1eVc4N0paUT1lOPk5MxKrAQiPARKlAQocVDFBUmxFZG02d3JTRDZnOEsybEI3amhYWVpzPRIkYjhhY2Q4NTUtNDAzYy00NWYwLTliYmMtNDc1Nzk0YmQ0ODM0GAAgACgAMP3jkeGKMji0z5HhijJAtM+R4YoyShxrcmZLOG5pRDVreEJURWpmenE2NmZnTmNFNXM9WiEiH////kVqcHFNUnVteVhUZG5qMzlVV1Y0SkhMNXNzYz1lQmPjwxKoAQg9EqMBChx1OUJva0xmcTJhTXZCc1MvMElOL0JVT3V2TzA9EiRhZjg2MWM2NS03NGEyLTQxMzEtOTAyZS1jMTZkYTA3MWQ2ZTcYACAAKAAwqK+XuPkxOPyZl7j5MUD8mZe4+TFKHC9uNTBsdGMwNy9RWFFrZjNlbHVHaVQva3RRQT1aHyId/UtHYi9mN0RUV0FmTzltc0JGcHpSNlJSSWZsdz1lWAbEwxKoAQhmEqMBChx6UHEyUGl6a2xPN2NYcTI5a3hwakc4bkhHNjQ9EiQ3Y2YyMzcxMS04ZjJmLTQ0MjctOGViYS1mYzdjNmQyMDg4Y2UYACAAKAAwhvSL144yOLOhiICOMkCzoYiAjjJKHEtqV0RVWkFRWVZuWUNPV2xDSjU1SUREUGtMRT1aHyId3VkrMGhTRVlhbW9ybDhuQVVtaEh5cjU2Zmx5Zz1lWAbEwxKnAQgJEqIBChxYVlhvNERYWkF3ZEF1emg3VGp4Um5SUlNwODg9EiQwYjVmYjJlMy01NzRjLTRjMTAtODNjNC0wZjBlYzVjMTlmNGEYACAAKAAw9ajh5NwxON37xeTcMUDd+8Xk3DFKHDQ2cFFHNGZaV3NtMUNQRVJwbk5kVFZteTREQT1aHiIcR0ovakEyK2ZsdEg4Rmx0NDgyUXR5TmZzS2pzPWU4+TkzEqgBCD8SowEKHExvNS9aRnpkc0xrM2RMa2xveFEyZmpxM3gvWT0SJDQ1ZTQ0YzVjLWI2MmItNDRhZi04Zjk1LWRmNzI1NTZlZDk4ZRgAIAAoADD6rrrbhTI4hOb71vsxQITm+9b7MUocZzFsbHRWa2lQOE9wTHZtNDVYWUswNWVVa1pvPVofIh3/VjY4emFodFdLTU04STF6MktucjZycjM5eEZrPWVYBsTDEqcBCDQSogEKHGdqZ1d1U1ZHMDBmakRGT09TdnlCMDRLMkMrTT0SJDk3ZTU1NzgxLWNjZDMtNGMxZi04M2Q4LTBiNzJmY2JkOWJkOBgAIAAoADCf4Ljt7jE4pe6I5u4xQKXuiObuMUocQjJxZFdhL3lNRlNCbTNIT0VwNUI1WWJ5SCtnPVoeIhx1S2ltQnJNc2p2OFQzc1duUWdxdG9ET00zejg9ZQAAAAASqgEILRKlAQocOU5sODFyZVkyYTZxcVBZdVVubzdJWEtNRHVjPRIkZDcwMmQxMTUtYzJjNi00NzRlLTlhZjAtOGZmZGU4MWUyNTc0GAAgACgAMJypiPyIMjjIlYj8iDJAyJWI/IgyShx3VTJwT1hQRnp5ZFVGRFVQd0xnQWlxRjQ3UmM9WiEiH///90FicFY2a3NwTXNKL1ZIVDd5K0MwN3h5V3RJdz1lOPk5MxKoAQgNEqMBChw0SFVneDQ4MURlNlJRUDc5ZmVnUXhOeHRabkU9EiQwZDg0NDZlNS0xYTQ2LTRhNzQtYTE1Ny1lNGY5ZWY3MDNkODEYACAAKAAw2d3h5NwxOObN3+TcMUDmzd/k3DFKHHJLOUJFbWxXcUVzcjJTa1EzdGp3U1B5VExIWT1aHyIdey8xaVB2VXhEK0NIM0VmN2UwbWpOL0N6b0lFMD1l55kTdBKoAQhiEqMBChxickc2T2laZEluT214aWhwTWx1cjk0S2tadlE9EiQ4MjhlYjliMi1jMDM5LTRjNzYtODk0My04ZjdjYTljZjZiYTIYACAAKAAwh4uL144yOLCNi9eOMkCwjYvXjjJKHDRlVklrd2doM2JmZndjSXQrRVVCbDczZWVFST1aHyId/S9HYzZNOVBjUFlOTGg3WFk5alVuSDNpdnJ5WT1lAAAAABKpAQiCARKjAQocclYzd3IyN3A4S3dydHB4Wms2dktvZDJkYm1FPRIkYjNjNzU0YjUtMmRjYi00MTkyLTkyYTgtYzJmZjg5MTdhMWE4GAAgACgAMLr51POIMjiT/NTziDJAk/zU84gyShxRTUNFUUQxWDlvLzBmNkZjQUJON2cvZXA5dm89Wh8iHdVtNUhnOWwwalZGOWovSm9CNEYySjQ1VzRUbHM9ZTj5OTMSpwEIQxKiAQocdWp1OTcrQjBhR1dDYWtWTit4T25IdFJKU1drPRIkYmYyMThhNjUtZjNmZC00NDI2LWFiODItYTRiMzAyODY0NzBjGAAgACgAMPKinIfoMTidx/HN5zFAncfxzecxShwwR05iRFhaSmsydUlVaWEzSXhIcUNuNXJmNU09Wh4iHFY1WnVuNlEzQUYxVUxMbndYSVdBVC81R1JKST1lEJVIjBKnAQhMEqIBChwwTHhabzF0WFdYU0s4ODBXQ2podnoyd0Jtc1E9EiRhN2Q2ZThlYS0xMTI0LTQ2NzItYjY4OC0zNGE5YmQyNzYxZTAYACAAKAAwz9Ps2/ExOOrX7NvxMUDq1+zb8TFKHFlTdUs4aTE0Um1XeldFTHhoTDN5M0ErR2xnQT1aHiIcdGJPbHpQMG9JcFg2ekVQUGpzNE5POWtiWUdzPWU4+TkzEqgBCEkSowEKHFFzZzdIVFNnOFhkNmpJUVpKU1hSTmxMc1hTZz0SJDVkYTJmOTQ1LTQyMWUtNDZhNC1hNWRiLWFiYjJlNDI1ZWJjOBgAIAAoADDMx8CQ5zE4lsvAkOcxQJbLwJDnMUocZytiUWVidFN6VFFMbUpHb201WkVYN3dHa0M4PVofIh28aVIzSUhHZ1ZxQ2xpd2FzaS9helQ4YUdrdElBPWW3r8Z4EqcBCFoSogEKHDYrVEVRUkJUQ1I2S1VIM0FKWmNiYlFqalV4Zz0SJDMzNzM0YjgzLTRlZmQtNDYxNC1iNWRkLTUyMTUzMTM5ZWQ5ZBgAIAAoADD26JGAjjI4xtrj9/wxQMba4/f8MUocd3Q2NUZlbnBaNS9yTWdDTHpZRC9pOWtTUC9ZPVoeIhxFR09JOWcrdXhMUlNwZmNRRE9INGthRi9vT2s9ZUY/r/ISpwEIUhKiAQocMmxnSFJia1RZTEZyTWlpd2dnZW4yZDZtQXJNPRIkOTE4MzBiZTMtYjg3OC00N2QzLTg1MzYtODIwMzg5OGMyZjYyGAAgACgAMMTd8ZyIMji/xvGciDJAv8bxnIgyShxnUXJja1BLYnVQVEZIbStPelg2UFRzVmVnb1U9Wh4iHHo4R3Jrb1NQTUlYdk1tTURBK3dzUGxQS3pJZz1lvGjYGRKpAQgnEqQBChx3QzFRMjI1SE1vdmszbG1sQlEwZzI0SXdSQ2M9EiQ4OGYyYjMzMS05ZmZhLTQwZDgtYTM1OC1jMmJjYzFmMzZkOWUYACAAKAAw/6XI5P8xOLGQyOT/MUCxkMjk/zFKHEYvZDV4bjIrcVhLVzdtd3hkNUlkMFpmRzVOTT1aICIe//12YnJOZkVQS21KaHUrWVBDQzB5QlY4YzdoSFE9ZTj5OTMSpwEIehKiAQocTHZuUGpKaWQ2d01yRVY3K3BFUFgvaGRjbjMwPRIkOWVmNzNhYTgtYTU4Yi00NzhkLWI1OWEtY2M0ZTVmNTYyZjIxGAAgACgAMO6NjpiIMji0kI6YiDJAtJCOmIgyShxSb1FnZlB1eEI1WEZYM1YraitJc2pCUFlOTFk9Wh4iHGpYY2hyelArQk5VTlFqQlA2QzhQckIvaVE1dz1lOPk5MxKoAQgQEqMBChxVeDh0S0ZHWDJ2dk5hZlhveThmVjRuSWFSN0U9EiQ2YjBlOWQ1YS02ZGI0LTRjOTYtODVhNC1iNzk2NTIzMjUyOTcYACAAKAAwk5n5wfUxOOX5+MH1MUDl+fjB9TFKHEo1cXAxVG5MRDNhK0xrSTdOWjc5cWtSR3lTMD1aHyIdxnZoVksxdnUrNS9sU1hkN1JYeWVpZGROTWxXND1lhOF4jhKnAQgIEqIBChwwakJVSnlGQ2VoMUpndkpNaThrc2JGazZHQVE9EiQ4YjI0NGY1Yi1lNjkzLTQ3YzgtYWYwNC1lYjVjM2YyMmM1NjMYACAAKAAwwMmdtZMyOLTMnbWTMkC0zJ21kzJKHEZBQzEwUm5nemQveFE5RGRtTDJwZUl5dG1qVT1aHiIcU3BYNGljZ09GdHhqS2xKNFRCRzQ1WlRieEZ3PWXvA33MEqoBCHYSpQEKHGRNWEdmeVhsOGQxR3B1S3ZhOU5HV2tiYkFGOD0SJDgxZmIzOGE5LWRjYjktNDM0OC05MmU4LTQxMjgzZGY3ZDcwNxgAIAAoADD2oYf1hDI4rd2o9PMxQK3dqPTzMUoccGFRKy9qampwOExJSnlTQ0pqZXlDQVNlWWFnPVohIh///+45S0ZzTkhoSE1obU44MVFKNjhCR2dvM0xpdzA9ZeG9t8sSqQEIiAESowEKHE44M3JlUWRoQnVCa0JWN2pnWVowcXQvdnhDWT0SJDU4ZTQ1NjY5LTQyZWMtNGVjMy1hMzk4LTlkZjljZjE0MDM1YhgAIAAoADDOqfX6iDI43av1+ogyQN2r9fqIMkocamM4ZjZjRXdSWnpQM3hkc1ZPMTRNK1BJU21JPVofIh3/M1BrbHBLOWM3V1JqNDlnUnZubkhuS1dienFNPWU4+TkzEqgBCBcSowEKHFNsd2hHTmswZjNCKzlBdTNjczJSWWNXcUN6UT0SJGVkZDg0NTBkLTcwMTctNGU4NC05NmM4LTJjNTNhMGRhOGE2YxgAIAAoADDe4sXr3DE4kPWv69wxQJD1r+vcMUocaXFTb1FOc3lOTVJ1MEM3ZXFKK0F6cW9aUklJPVofIh39Ync5YTFKaUF2UEoyVzNBVitNRWYyUGVvYk9vPWVOpCf3EqgBCGESowEKHEhhVzBBekp1TEt0dDJDQ3JHNnRXM1EwQVY1cz0SJGY5N2MwMTIwLWNhMjItNDUwMS1iMjczLTZiNzUyOWNhMDhhZhgAIAAoADCpxvDZjjI47sjw2Y4yQO7I8NmOMkocUVJ4aDc3ak9wZm5waFJwaTc1Y3hQQ0pxdEtvPVofIh3bZWpUZmQ5RmdodHVqYk5PWTZBYS9WMVhCeFJNPWU4+TkzEqgBCFMSowEKHHhJcDN3a2ppTXM0UmMyUGxCWDVnMTVZOENrND0SJDdlMTJiYTRlLTZiZGUtNDg4OS04OGM1LTFlMTNjNGY1ZmE4ZBgAIAAoADCK9sKfiDI4pMbBn4gyQKTGwZ+IMkocNFVSWjZLNlRiOFhKSnJ4cmFTNkZnSms0RmhzPVofIh3eOUQ4aU9Ra2VHVFl3SnR0NzMzWnNhZng3UDBRPWXq1yF3EqgBCBUSowEKHHJTWmlTMXJHbVZXU2JXY0xRMVJIcnRHRnlmUT0SJDA2MmNjMjI2LWUwMzItNDQ1OC1iMWU4LTQ3YjU1MzVkNGZhNRgAIAAoADCt067l3DE40YLo5NwxQNGC6OTcMUoceEMwWm5kSHF0NmlRa21tRXg3cDJPdG54bmF3PVofIh37WHZrY2ZqNjhLV09TR0s2UU1tVWhxRzFSUEI4PWUXaKQCEqgBCBISowEKHFNRZ0V5dVpTeEpxbDd4M08zQ040MUMzNWpiUT0SJDNjYjczYmZkLWQ4NjgtNDVlZi04Y2ZiLTgyMzlmMjFlM2JiZRgAIAAoADDvqYXwhDI4yITd5YQyQMiE3eWEMkocOXBHbTZsd1dEUVRPNUg4a3NSb1FURk1rNWJjPVofIh3YVVlrS2lKU1A0TVlrczMvb2Fob3RUQ0h4MGhzPWV1X4YlEqgBCEUSowEKHHYwL3Zvd0RteG9HMVJCdkhsaVRjYm1JZUxFQT0SJGYwMTg5MzQ5LWNiNjAtNDU4Ni05ZjY2LWU2Y2I3NjljYzkxOBgAIAAoADDelbnt7jE4naWBrucxQJ2lga7nMUoccnFDcWhybGdYUHIxblFibWw0NDQvSFZ1V2RzPVofIh3eV2x5VEs1cmpsc2ZBTHg3bkhkdHArcUk0N2ZZPWUAAAAAEqgBCBkSowEKHERaeVM1OE9odkFUdlRBL1YrbnRnZGYrQ0thTT0SJDkwNWUzMTkwLWYyODEtNDVmNC04NWUxLTFlN2Q5MDdiYjFiMhgAIAAoADCn/8D36jE4yMjf9eoxQMjI3/XqMUocclNsVEdISnd5RTFQQ0dmeDZmREJLejA4cWVvPVofIh3+dWZlK2tBejhwb0hWY1MyZjNocW9BKy96dlhRPWUPYiZ4EqgBCDoSowEKHHFrcHlpUTVkSGZrVTY5c2M0MXI2Z1I3d2lLcz0SJGEwNzg4M2NmLTYzNTYtNDk0Yi05M2M1LWI4ODMzNTUxOWZkNBgAIAAoADClt8nv7jE41YrJ7+4xQNWKye/uMUocSjhsNDZBSkdiVDJYQjViSE0vbXNoWDhPd0E4PVofIh3ueHRNRmZ2cTJWMGluaml0OUJEaStkbjJMNGc4PWXApSi6EokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGMzZTAzMzJiLTJlZmMtNWQ0Mi1iMDkzLTk1YTczOWM5ZWExZRgAIAAoADDWlPDj3DE4wp3w49wxQMKd8OPcMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwADgA",
+   "version": 1
+}

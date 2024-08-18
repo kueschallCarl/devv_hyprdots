@@ -1,0 +1,23 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "options.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Be able to change the new tab to any given URL",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm98SJ48L8iRF01/bjobAH7kaVvxOiCePhWcDpv7QBEy3y9Bb3bL8rJQ7DD4L0baMgpPD+yU8jOhbyBed9i1h0J26QM40k/9RMS9iUE+XgbNssNaehsYRxTIdl3AONLUqvLm0tWXFonSbNse+zH9nacFp3ocLpZnqv91QV2FTgxVxN11c2PxfosuMwdk/8XGWPNvNs3WRYyzjgxhwrjftdGeDqyQogvroCrAxrDvfWFkmrSBEpNPraS3lfUPVfuzpRkEMukNDjKMxkSsyCG0WfqUD63BxfDEEeqT8IKf6k1CXDtlrSpjsJkrhJIO1A3mg0MPyophQTZqyjqOOAA3eVQIDAQAB",
+   "manifest_version": 2,
+   "name": "Custom New Tab",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "storage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.3"
+}

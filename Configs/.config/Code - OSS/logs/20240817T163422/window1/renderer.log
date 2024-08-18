@@ -1,0 +1,5 @@
+2024-08-17 16:34:23.540 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/devv/--ozone-platform-hint=wayland","scheme":"file"},"type":1,"exists":false},{"fileUri":{"$mid":1,"path":"/home/devv/--disable-gpu","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2024-08-17 16:34:23.950 [info] Started local extension host with pid 98830.
+2024-08-17 16:34:23.983 [info] Started initializing default profile extensions in extensions installation folder. file:///home/devv/.vscode-oss/extensions
+2024-08-17 16:34:24.210 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/devv/.vscode-oss/extensions
+2024-08-17 16:34:27.307 [info] [perf] Render performance baseline is 29ms

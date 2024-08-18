@@ -1,0 +1,15 @@
+2024/08/18-15:49:34.924 565c Reusing MANIFEST /home/devv/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/08/18-15:49:34.925 565c Recovering log #68
+2024/08/18-15:49:34.926 565c Reusing old log /home/devv/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000068.log 
+2024/08/18-15:49:35.216 565e Level-0 table #72: started
+2024/08/18-15:49:35.225 565e Level-0 table #72: 619595 bytes OK
+2024/08/18-15:49:35.228 565e Delete type=0 #68
+2024/08/18-15:49:35.229 565e Compacting 4@0 + 1@1 files
+2024/08/18-15:49:35.237 565e Generated table #73@0: 5 keys, 619517 bytes
+2024/08/18-15:49:35.237 565e Compacted 4@0 + 1@1 files => 619517 bytes
+2024/08/18-15:49:35.239 565e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/18-15:49:35.241 565e Delete type=2 #66
+2024/08/18-15:49:35.241 565e Delete type=2 #63
+2024/08/18-15:49:35.241 565e Delete type=2 #69
+2024/08/18-15:49:35.242 565e Delete type=2 #72
+2024/08/18-15:49:35.242 565e Delete type=2 #60
